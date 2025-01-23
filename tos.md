@@ -1,1 +1,8 @@
-<h1>hell0!w</h1>
+---
+layout: default
+title: "Terms of Service"
+permalink: /tos/
+---
+# Terms of Service
+
+Your Terms of Service content goes here.
