@@ -4,15 +4,16 @@ title: "Terms of Service"
 permalink: /tos/
 ---
 
-# Terms of Use
+# Terms of Service
 
 **Effective Date:** 1/15/2025
 
 Welcome to **BoomBoom**! 
+These Terms of Service (the "Terms") set forth the terms and conditions governing your access to and use of the platform, mobile application, website, services, and all related features, content, and functionality (collectively, the "Service") provided by BoomBoom LLC ("BoomBoom," "we," "our," or "us").
 
-These Terms of Use (or "Terms") govern your access to and use of the platform, mobile app, websites, services, and other content (collectively, the "Service") provided by **BoomBoom LLC** ("BoomBoom", "we", "our", or "us"). Please read these Terms carefully before using the Service.
+By accessing or using the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Service.
 
-By using or accessing the Service, you agree to be bound by these Terms, our Privacy Policy, and any additional guidelines or rules that apply to specific features or services. If you do not agree with these Terms, you must not use the Service.
+Your continued use of the Service constitutes your acceptance of these Terms as updated or amended from time to time. It is your responsibility to review these Terms periodically to ensure ongoing compliance.
 
 ## 1. Acceptance of Terms
 
@@ -20,11 +21,12 @@ By using our Service, you acknowledge that you have read and understood these Te
 
 ## 2. Eligibility
 
-Our Services are not directed to children under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we have actual knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. So please read all such terms carefully. By using the Services, you represent, warrant, and agree that:
+Our Services are not directed to children under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we gather knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. Please read all such terms carefully. By using the Services, you represent, warrant, and agree that:
 
 - you can form a binding contract with BoomBoom;
 - you are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
-- you are not a convicted sex offender; and
+- you are not a convicted sex offender;
+- Your account for violation of law or any of our policies.
 - you will comply with these Terms (including any other terms and policies referenced in these Terms, such as the Community Guidelines and the Commercial Content Policy) and all applicable local, state, national, and international laws, rules, and regulations.
 
 If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity).
@@ -94,6 +96,66 @@ If you have any questions about these Terms or need support, please contact us a
 **Last updated:** 1/23/2025
 
 
+
+---------
+
+
+
+
+---------
+1. Payouts and Payment Terms
+
+1.1 Payout Methods
+Payouts for earnings resulting from exchanges conducted within the app will be processed exclusively through supported payment platforms, which currently include PayPal. In the future, we may introduce additional payout platforms such as Venmo or other payment services. The availability of payout platforms may vary by region and other eligibility factors.
+
+1.2 Payout Timeline
+Payouts will be initiated within 14 calendar days of the completion of a qualifying exchange. Processing times may vary depending on the payment platform’s policies and external factors, including but not limited to banking holidays, compliance reviews, or technical issues. Users acknowledge that the company is not liable for delays caused by the payment platform or external systems.
+
+1.3 Fees and Deductions
+All payouts are subject to any applicable transaction fees or service charges imposed by the payment platform. Such fees will be automatically deducted from the payout amount unless otherwise specified. Users are responsible for reviewing the payment platform’s fee structure prior to use.
+
+1.4 Future Platform Updates
+We reserve the right to add, remove, or modify supported payout platforms at our discretion. Users will be notified of any changes via in-app notifications or email updates, as applicable.
+
+2. User Eligibility
+
+2.1 Age Requirement
+Users must be at least 18 years of age to create an account, participate in exchanges, or receive payouts through the app. By using the app, users affirm that they meet this age requirement.
+
+2.2 Payment Platform Compliance
+Users are responsible for ensuring that they meet all eligibility and compliance requirements of the payout platform(s) they choose to use. These requirements may include, but are not limited to:
+
+Verifying their identity or account.
+Meeting age restrictions or regional availability guidelines.
+Providing accurate and valid payment details.
+Failure to comply with the payment platform's requirements may result in delayed or failed payouts. The company assumes no liability for payouts that are delayed or unprocessed due to user non-compliance.
+
+3. Accuracy of Account Information
+
+3.1 Account Details
+Users are solely responsible for providing accurate and up-to-date account information for their selected payout platform(s). This includes, but is not limited to, the correct email address, username, or any other information required by the platform.
+
+3.2 Failed or Misrouted Payments
+The company is not responsible for payouts sent to incorrect or invalid accounts due to errors in the information provided by the user. Users acknowledge and accept any potential loss resulting from such errors.
+
+3.3 Changes to Account Information
+Users must promptly update their account information in the app if their payout platform details change. The company will not be held liable for delays caused by outdated or incorrect account information.
+
+4. Restrictions and Limitations
+
+4.1 Prohibited Use
+The app and its payout functionality may not be used for illegal activities, fraud, or any purposes that violate applicable laws or regulations, including but not limited to those set by the payout platform(s).
+
+4.2 Payout Disputes
+Users must notify the company within 30 days of any dispute or issue regarding a payout. Failure to notify within this timeframe will result in forfeiture of the right to contest the payout.
+
+4.3 Suspension of Payouts
+The company reserves the right to suspend or withhold payouts if fraudulent activity, non-compliance, or misuse of the app or payout platforms is suspected.
+
+5. Changes to Terms
+
+We reserve the right to modify these terms at any time. Users will be notified of significant changes via in-app announcements or email. Continued use of the app after such changes constitutes acceptance of the updated terms.
+--------------
 
 
 
