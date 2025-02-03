@@ -9,7 +9,7 @@ permalink: /tos/
 **Effective Date:** 1/15/2025
 
 Welcome to **BoomBoom**! 
-These Terms of Service (the "Terms") set forth the terms and conditions governing your access to and use of the platform, mobile application, website, services, and all related features, content, and functionality (collectively, the "Service") provided by BoomBoom LLC ("BoomBoom," "we," "our," or "us").
+These Terms of Service (the "Terms") set forth the terms and conditions governing your access to and use of the platform, mobile application, services, and all related features, content, and functionality (collectively, the "Service") provided by BoomBoom LLC ("BoomBoom," "we," "our," or "us").
 
 By accessing or using the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Service.
 
@@ -68,9 +68,17 @@ All purchases made via in-app payments are final. No refunds will be issued unle
 
 ### 6.2 Payouts
 
-Users 18+ may link a verified PayPal account to receive payouts. Users under 18 are prohibited from linking a PayPal account unless parental consent is verified.
+Users **18 years or older** may link a **verified PayPal account** to receive payouts. Users under 18 are prohibited from linking a PayPal account or receiving payouts.
 
-We are not responsible for the availability or terms of your PayPal account, and all payouts are subject to our review for compliance with these Terms.
+By linking a PayPal account, you explicitly agree to **all PayPal Terms of Service** and **Privacy Policy**, as stated in **[Clause 2: Third-Party Services & PayPal Integration](#2-third-party-services--paypal-integration)**. This includes, but is not limited to, compliance with PayPal's **Acceptable Use Policy**, **account verification requirements**, and **restrictions on payments**.
+
+Additionally, you agree that:  
+- You may **only link and use a PayPal account registered in your own name**. Linking third-party or unauthorized accounts is strictly prohibited.  
+- We **reserve the right to review and verify** any payout requests for compliance with these Terms.  
+- Payouts are **subject to processing delays, fees, and limitations** imposed by PayPal. BoomBoom is not responsible for any issues arising from PayPal’s availability, security, or their enforcement of policies.  
+- In cases of fraud, dispute, or violation of these Terms, we may **suspend, withhold, or revoke** any payouts at our sole discretion.  
+
+By using PayPal for payouts, you acknowledge that PayPal is a third-party service, and **BoomBoom is not liable** for any issues, disputes, or financial losses related to your PayPal account or transactions.  
 
 ## 7. Privacy and Data Collection
 
@@ -99,7 +107,15 @@ If you have any questions about these Terms or need support, please contact us a
 
 ---------
 
+## 2. Third-Party Services & PayPal Integration
 
+Some features of the Service may rely on third-party integrations, including but not limited to **PayPal OAuth2 authentication** for payment-related functionalities. By choosing to use PayPal within our Service, you acknowledge and agree to:
+
+- Comply with **[PayPal’s Terms of Service](https://www.paypal.com/us/legalhub/useragreement-full)** and **[Privacy Policy](https://www.paypal.com/us/legalhub/privacy-full)**, which govern your use of their authentication and payment services.
+- Grant BoomBoom permission to access and process necessary account-related information as required by PayPal’s API.
+- Understand that BoomBoom is not responsible for PayPal’s services, availability, security, or any disputes related to PayPal transactions.
+
+By utilizing the PayPal integration, you expressly agree to **PayPal’s terms**, and it is your responsibility to review their policies before proceeding. If you do not accept PayPal’s terms, you must refrain from using PayPal-related features within the Service.
 
 
 ---------
