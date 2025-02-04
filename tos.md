@@ -4,6 +4,8 @@ title: "Terms of Service"
 permalink: /tos/
 ---
 
+[BoomBoom](https://example.com)  
+
 # Terms of Service
 
 **Effective Date:** 1/15/2025
