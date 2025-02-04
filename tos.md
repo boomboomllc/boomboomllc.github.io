@@ -1,16 +1,12 @@
 ---
 layout: default
-title: "Terms of Service"
 permalink: /tos/
 ---
-
-[BoomBoom](https://example.com)  
 
 # Terms of Service
 
 **Effective Date:** 1/15/2025
 
-Welcome to **BoomBoom**! 
 These Terms of Service (the "Terms") set forth the terms and conditions governing your access to and use of the platform, mobile application, services, and all related features, content, and functionality (collectively, the "Service") provided by BoomBoom LLC ("BoomBoom," "we," "our," or "us").
 
 By accessing or using the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Service.
