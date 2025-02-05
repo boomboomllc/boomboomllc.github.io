@@ -45,7 +45,7 @@ Providing our Service requires collecting and using your information. The Privac
 
 ## 5. Your Responsibilities
 
-### 5.1 Account Registration and Security
+#### 5.1 Account Registration and Security
 
 To use certain features of the Service, you must create an account. You agree to provide accurate, current, and complete information during the registration process and update your information as necessary.
 
