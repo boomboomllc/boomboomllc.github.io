@@ -9,7 +9,7 @@ permalink: /tos/
 
 These Terms of Service (the "Terms") set forth the terms and conditions governing your access to and use of the platform, mobile application, services, and all related features, content, and functionality (collectively, the "Service") provided by BoomBoom LLC ("BoomBoom," "we," "our," or "us").
 
-By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Service.
+By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Services.
 
 Your continued use of the Services constitutes your acceptance of these Terms as updated or amended from time to time. It is your responsibility to review these Terms periodically to ensure ongoing compliance.
 
@@ -41,17 +41,21 @@ You may see branded content on BoomBoom posted by account holders who promote pr
 
 ## 4. The Privacy Policy
 
-Providing our Service requires collecting and using your information. The Privacy Policy explains how we collect, use, and share information across the Meta Products. It also explains the many ways you can control your information, including in the Instagram Privacy and Security Settings. You must agree to the Privacy Policy to use Instagram.
+Providing our Service requires collecting and using your information. The Privacy Policy explains how we collect and use that information. It also explains the ways you can control your information, including in the BoomBoom Privacy Settings. You must agree to the Privacy Policy to use BoomBoom.
 
 ## 5. Your Responsibilities
 
-# 5.1 Account Registration and Security
+### 5.1 Account Registration and Security
 
 To use certain features of the Service, you must create an account. You agree to provide accurate, current, and complete information during the registration process and update your information as necessary.
 
 You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use or security breaches.
 
-# 5.2 Age-Based Restrictions
+### 5.2 Age-Based Restrictions
+
+Users under the age of 13 may **not**:
+
+- Access or use any of our provided Services.
 
 Users under the age of 18 may:
 
@@ -66,7 +70,7 @@ Users under 18 may **not**:
 
 You retain ownership of all content you upload, post, or share on the Service ("User Content"). By submitting User Content, you grant us a worldwide, royalty-free license to use, display, and distribute your content solely to operate and improve the Service.
 
-You are prohibited from uploading content that is illegal, harmful, or violates third-party rights. We reserve the right to remove content that breaches these Terms.
+You are prohibited from uploading content that is illegal, harmful, goes against the Community Guidelines, or violates third-party rights. We reserve the right to remove content that breaches these Terms.
 
 ## 6. Payments and Financial Features
 
