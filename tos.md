@@ -51,7 +51,7 @@ To use certain features of the Service, you must create an account. You agree to
 
 You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use or security breaches.
 
-### 5.2 Age-Based Restrictions
+#### 5.2 Age-Based Restrictions
 
 Users under the age of 13 may **not**:
 
@@ -66,11 +66,40 @@ Users under 18 may **not**:
 
 - Link a PayPal account or request payouts in real currency unless verified parental consent is provided and such payouts comply with applicable laws.
 
-## 5. User Content and Conduct
+### 5.3 User Content
 
 You retain ownership of all content you upload, post, or share on the Service ("User Content"). By submitting User Content, you grant us a worldwide, royalty-free license to use, display, and distribute your content solely to operate and improve the Service.
 
 You are prohibited from uploading content that is illegal, harmful, goes against the Community Guidelines, or violates third-party rights. We reserve the right to remove content that breaches these Terms.
+
+#### 5.4 User Conduct
+
+Providing a safe and open Service for a broad community requires that we all do our part.
+
+- You can't impersonate others or provide inaccurate information.
+- You don't have to disclose your identity on BoomBoom, but you must provide us with accurate and up to date information (including registration information), which may include providing personal data. Also, you may not impersonate someone or something you aren't, and you can't create an account for someone else unless you have their express permission.
+- You can't do anything unlawful, misleading, or fraudulent or for an illegal or unauthorized purpose.
+- You can't violate (or help or encourage others to violate) these Terms or our policies, including in particular the Community Guidelines.
+- If you post branded content, you must comply with our Branded Content Policies, which require you to use our branded content tool. Learn how to report conduct or content in our Help Center.
+- You can't do anything to interfere with or impair the intended operation of the Service.
+This includes misusing any reporting, dispute, or appeals channel, such as by making fraudulent or groundless reports or appeals.
+- You can't attempt to create accounts or access or collect information in unauthorized ways.
+This includes creating accounts or accessing or collecting information in an automated way without our express permission, regardless of whether such automated access or collection is undertaken while logged-in to an Instagram account.
+- You can’t sell, license, or purchase any account or data obtained from us or our Service, regardless of whether such data was obtained while logged-in to a BoomBoom account.
+- This includes attempts to buy, sell, or transfer any aspect of your account (including your username); solicit, collect, or use login credentials or badges of other users; or request or collect BoomBoom usernames, passwords, or misappropriate access tokens.
+- You can't post someone else’s private or confidential information without permission or do anything that violates someone else's rights, including intellectual property rights (e.g., copyright infringement, trademark infringement, counterfeit, or pirated goods).
+- You may use someone else's works under exceptions or limitations to copyright and related rights under applicable law. You represent you own or have obtained all necessary rights to the content you post or share. Learn more, including how to report content that you think infringes your intellectual property rights, here.
+- You can’t modify, translate, create derivative works of, or reverse engineer our products or their components.
+- You can't use a domain name or URL in your username without our prior written consent.
+- You can't do, or attempt to do, anything to circumvent, by-pass, or override any technological measures that control or limit access to the Service or data.
+  
+### 4.3 Permissions You Give to Us.
+As part of our agreement, you also give us permissions that we need to provide the Service.
+We do not claim ownership of your content, but you grant us a license to use it.
+Nothing is changing about your rights in your content. We do not claim ownership of your content that you post on or through the Service and you are free to share your content with anyone else, wherever you want. However, we need certain legal permissions from you (known as a “license”) to provide the Service. When you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings). This license will end when your content is deleted from our systems. You can delete content individually or all at once by deleting your account. To learn more about how we use information, and how to control or delete your content, review the Privacy Policy and visit the Instagram Help Center.
+Permission to use your username, profile picture, and information about your relationships and actions with accounts, ads, and sponsored content.
+You give us permission to show your username, profile picture, and information about your actions (such as likes) or relationships (such as follows) next to or in connection with accounts, ads, offers, and other sponsored content that you follow or engage with that are displayed on Meta Products, without any compensation to you. For example, we may show that you liked a sponsored post created by a brand that has paid us to display its ads on Instagram. As with actions on other content and follows of other accounts, actions on sponsored content and follows of sponsored accounts can be seen only by people who have permission to see that content or follow. We will also respect your ad settings. You can learn more here about your ad settings.
+You agree that we can download and install updates to the Service on your device.
 
 ## 6. Payments and Financial Features
 
