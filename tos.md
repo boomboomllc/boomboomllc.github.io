@@ -9,13 +9,13 @@ permalink: /tos/
 
 These Terms of Service (the "Terms") set forth the terms and conditions governing your access to and use of the platform, mobile application, services, and all related features, content, and functionality (collectively, the "Service") provided by BoomBoom LLC ("BoomBoom," "we," "our," or "us").
 
-By accessing or using the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Service.
+By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Service.
 
-Your continued use of the Service constitutes your acceptance of these Terms as updated or amended from time to time. It is your responsibility to review these Terms periodically to ensure ongoing compliance.
+Your continued use of the Services constitutes your acceptance of these Terms as updated or amended from time to time. It is your responsibility to review these Terms periodically to ensure ongoing compliance.
 
 ## 1. Acceptance of Terms
 
-By using our Service, you acknowledge that you have read and understood these Terms and agree to be legally bound by them. These Terms may be updated from time to time, and we will notify you of any significant changes. Your continued use of the Service after any changes to these Terms will constitute acceptance of those changes.
+By using our Services, you acknowledge that you have read and understood these Terms and agree to be legally bound by them. These Terms may be updated from time to time, and we will notify you of any significant changes. Your continued use of the Services after any changes to these Terms will constitute acceptance of those changes.
 
 ## 2. Eligibility
 
@@ -24,18 +24,18 @@ Our Services are not directed to children under the age of 13, and you must conf
 - You can form a binding contract with BoomBoom;
 - You are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
 - You are not a convicted sex offender;
-- We have not previously disable your account(s) for violation of law or any of our policies.
+- We have not previously disabled your account(s) for violation of law or any of our policies.
 - You will comply with these Terms (including any other terms and policies referenced in these Terms, such as the Community Guidelines and the Commercial Content Policy) and all applicable local, state, national, and international laws, rules, and regulations.
 
 If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity).
 
 ## 3. How Our Service Is Funded
 
-Apple mandates the use of in-app purchases, which includes a 30% fee which goes to Apple for all lux purchases. In an effort to minimize further fees to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off the BoomBoom. We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+Apple mandates the use of in-app purchases, which means a 30% fee goes straight to Apple for all lux purchases. In an effort to minimize further fees and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
-We show you relevant and useful ads without telling advertisers who you are. We don’t sell your personal data. We allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We then show their ad to people who might be interested.
+We may show you relevant and useful ads without telling advertisers who you are. We do not sell your personal data. We may allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We may then show their ad to people who might be interested.
 
-We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off BoomBoom. For example, we provide general demographic and interest information to advertisers to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how BoomBoom ads work here.
+We may also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off BoomBoom. For example, we may provide general demographic and interest information to advertisers to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are). Learn more about how BoomBoom ads work here.
 
 You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here.
 
