@@ -21,13 +21,23 @@ By using our Service, you acknowledge that you have read and understood these Te
 
 Our Services are not directed to children under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we gather knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. Please read all such terms carefully. By using the Services, you represent, warrant, and agree that:
 
-- you can form a binding contract with BoomBoom;
-- you are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
-- you are not a convicted sex offender;
-- Your account for violation of law or any of our policies.
-- you will comply with these Terms (including any other terms and policies referenced in these Terms, such as the Community Guidelines and the Commercial Content Policy) and all applicable local, state, national, and international laws, rules, and regulations.
+- You can form a binding contract with BoomBoom;
+- You are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
+- You are not a convicted sex offender;
+- We have not previously disable your account(s) for violation of law or any of our policies.
+- You will comply with these Terms (including any other terms and policies referenced in these Terms, such as the Community Guidelines and the Commercial Content Policy) and all applicable local, state, national, and international laws, rules, and regulations.
 
 If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity).
+
+## 3. How Our Service Is Funded
+
+Apple mandates the use of in-app purchases, which includes a 30% fee which goes to Apple for all lux purchases. In an effort to minimize further fees to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off the BoomBoom. We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+
+We show you relevant and useful ads without telling advertisers who you are. We don’t sell your personal data. We allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We then show their ad to people who might be interested.
+
+We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off BoomBoom. For example, we provide general demographic and interest information to advertisers to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how BoomBoom ads work here.
+
+You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here.
 
 ## 3. Account Registration and Security
 
@@ -37,8 +47,6 @@ You are solely responsible for maintaining the confidentiality of your account c
 
 ## 4. Age-Based Restrictions
 
-### 4.1 Users Under 18
-
 Users under the age of 18 may:
 
 - Access non-financial features of the Service, including earning virtual points or in-app rewards.
@@ -47,10 +55,6 @@ Users under the age of 18 may:
 Users under 18 may **not**:
 
 - Link a PayPal account or request payouts in real currency unless verified parental consent is provided and such payouts comply with applicable laws.
-
-### 4.2 Parental Consent
-
-For users aged **13-17**, we may require parental or guardian consent to access certain financial features. If parental consent is not provided, those features will remain disabled for the account.
 
 ## 5. User Content and Conduct
 
