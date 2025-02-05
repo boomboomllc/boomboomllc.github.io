@@ -39,13 +39,19 @@ We may also provide advertisers with reports about the performance of their ads 
 
 You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here.
 
-## 3. Account Registration and Security
+## 4. The Privacy Policy
+
+Providing our Service requires collecting and using your information. The Privacy Policy explains how we collect, use, and share information across the Meta Products. It also explains the many ways you can control your information, including in the Instagram Privacy and Security Settings. You must agree to the Privacy Policy to use Instagram.
+
+## 5. Your Responsibilities
+
+# 5.1 Account Registration and Security
 
 To use certain features of the Service, you must create an account. You agree to provide accurate, current, and complete information during the registration process and update your information as necessary.
 
 You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use or security breaches.
 
-## 4. Age-Based Restrictions
+# 5.2 Age-Based Restrictions
 
 Users under the age of 18 may:
 
