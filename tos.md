@@ -53,6 +53,8 @@ You are solely responsible for maintaining the confidentiality of your account c
 
 #### 5.2 Age-Based Restrictions
 
+Users must be 18 or older to access the full-features of our Services. Users must be 13 or older to access our Services at all.
+
 Users under the age of 13 may **not**:
 
 - Access or use any of our provided Services.
@@ -68,35 +70,41 @@ Users under 18 may **not**:
 
 ### 5.3 User Content
 
-You retain ownership of all content you upload, post, or share on the Service ("User Content"). By submitting User Content, you grant us a worldwide, royalty-free license to use, display, and distribute your content solely to operate and improve the Service.
+You retain ownership of all content you upload, post, or share on the Service ("User Content"). By submitting User Content, you grant us a worldwide royalty-free, transferable, sub-licensable, perpetual license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content license to use, display, and distribute your content solely to operate and improve the Service. 
 
 You are prohibited from uploading content that is illegal, harmful, goes against the Community Guidelines, or violates third-party rights. We reserve the right to remove content that breaches these Terms.
 
 #### 5.4 User Conduct
 
-Providing a safe and open Service for a broad community requires that we all do our part.
+You are required to use our Services in accordance with the following terms:
 
-- You can't impersonate others or provide inaccurate information.
-- You don't have to disclose your identity on BoomBoom, but you must provide us with accurate and up to date information (including registration information), which may include providing personal data. Also, you may not impersonate someone or something you aren't, and you can't create an account for someone else unless you have their express permission.
-- You can't do anything unlawful, misleading, or fraudulent or for an illegal or unauthorized purpose.
-- You can't violate (or help or encourage others to violate) these Terms or our policies, including in particular the Community Guidelines.
+
+- You must provide accurate and up-to-date information during registration.
+- 
+- You must not impersonate anyone or anything.
+- You must not create an account for anyone else unless you have their expressed permission.
+- You must not manipulate, obscure, or alter the appearance of any information displayed on your profile or posts in a way that misleads others or interferes with the intended functionality of the Service.
+- You must not engage in fraudulent transactions, such as artificially inflating prices or coordinating with others to exploit the In-App Currency system.
+- You must not attempt to sell, transfer, or exchange In-App Currency outside of the platform.
+- You must not use misleading or deceptive tactics when pricing their content.
+- You must not do anything unlawful, misleading, fraudulent, or for any illegal or unauthorized purpose, including scamming.
+- You must not violate (or help or encourage others to violate) these Terms or our policies, including the Community Guidelines.
+- 
 - If you post branded content, you must comply with our Branded Content Policies, which require you to use our branded content tool. Learn how to report conduct or content in our Help Center.
-- You can't do anything to interfere with or impair the intended operation of the Service.
-This includes misusing any reporting, dispute, or appeals channel, such as by making fraudulent or groundless reports or appeals.
-- You can't attempt to create accounts or access or collect information in unauthorized ways.
-This includes creating accounts or accessing or collecting information in an automated way without our express permission, regardless of whether such automated access or collection is undertaken while logged-in to an Instagram account.
-- You can’t sell, license, or purchase any account or data obtained from us or our Service, regardless of whether such data was obtained while logged-in to a BoomBoom account.
-- This includes attempts to buy, sell, or transfer any aspect of your account (including your username); solicit, collect, or use login credentials or badges of other users; or request or collect BoomBoom usernames, passwords, or misappropriate access tokens.
-- You can't post someone else’s private or confidential information without permission or do anything that violates someone else's rights, including intellectual property rights (e.g., copyright infringement, trademark infringement, counterfeit, or pirated goods).
-- You may use someone else's works under exceptions or limitations to copyright and related rights under applicable law. You represent you own or have obtained all necessary rights to the content you post or share. Learn more, including how to report content that you think infringes your intellectual property rights, here.
-- You can’t modify, translate, create derivative works of, or reverse engineer our products or their components.
-- You can't use a domain name or URL in your username without our prior written consent.
-- You can't do, or attempt to do, anything to circumvent, by-pass, or override any technological measures that control or limit access to the Service or data.
-  
-### 4.3 Permissions You Give to Us.
-As part of our agreement, you also give us permissions that we need to provide the Service.
-We do not claim ownership of your content, but you grant us a license to use it.
-Nothing is changing about your rights in your content. We do not claim ownership of your content that you post on or through the Service and you are free to share your content with anyone else, wherever you want. However, we need certain legal permissions from you (known as a “license”) to provide the Service. When you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings). This license will end when your content is deleted from our systems. You can delete content individually or all at once by deleting your account. To learn more about how we use information, and how to control or delete your content, review the Privacy Policy and visit the Instagram Help Center.
+- 
+- You must not do anything to interfere with or impair the intended operation of the Service.
+- You must not misuse any reporting, dispute, or appeals channel, such as by making fraudulent or groundless reports or appeals.
+- You must not attempt to create accounts in any automated or unauthorized ways.
+- You must not attempt to access or collect information in any automated or unauthorized ways.
+- You must not license, sell, or purchase any account or data obtained from us or our Service. This includes attempts to buy, sell, or transfer any aspect of your account (including your username and details of unlocked posts);
+- You must not solicit, collect, or use login credentials of other users.
+- You must not request or collect BoomBoom usernames or passwords.
+- You must not post someone else’s private or confidential information without permission or do anything that violates someone else's rights, including intellectual property rights (e.g., copyright infringement, trademark infringement, counterfeit, or pirated goods).
+- You must not create derivative works from, or reverse engineer, any part of our Services (including modifying, translating).
+- You must not have a username which goes against the Community Guidelines
+- You must not attempt to bypass, disable, or otherwise interfere with any technological measures designed to control or restrict access to the Service or its data.
+
+
 Permission to use your username, profile picture, and information about your relationships and actions with accounts, ads, and sponsored content.
 You give us permission to show your username, profile picture, and information about your actions (such as likes) or relationships (such as follows) next to or in connection with accounts, ads, offers, and other sponsored content that you follow or engage with that are displayed on Meta Products, without any compensation to you. For example, we may show that you liked a sponsored post created by a brand that has paid us to display its ads on Instagram. As with actions on other content and follows of other accounts, actions on sponsored content and follows of sponsored accounts can be seen only by people who have permission to see that content or follow. We will also respect your ad settings. You can learn more here about your ad settings.
 You agree that we can download and install updates to the Service on your device.
