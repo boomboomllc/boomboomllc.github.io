@@ -27,7 +27,9 @@ Our Services are not directed to children under the age of 13, and you must conf
 - We have not previously disabled your account(s) for violation of law or any of our policies.
 - You will comply with these Terms (including any other terms and policies referenced in these Terms, such as the Community Guidelines and the Commercial Content Policy) and all applicable local, state, national, and international laws, rules, and regulations.
 
-If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity).
+At this time, BoomBoom is only available for individual users. Businesses, brands, and other commercial entities are not permitted to create accounts or use the platform. We may update this policy in the future to allow brand or business accounts. Any changes will be reflected in an updated version of these Terms.
+
+{% If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity). %}
 
 ## 3. How Our Service Is Funded
 
@@ -37,7 +39,9 @@ We may show you relevant and useful ads without telling advertisers who you are.
 
 We may also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off BoomBoom. For example, we may provide general demographic and interest information to advertisers to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are). Learn more about how BoomBoom ads work here.
 
-You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here.
+This website uses third-party advertising partners that may use cookies to serve ads based on your non-personal browsing behavior. For more information on how these partners use cookies, please refer to their privacy policies.
+
+{% You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here. %}
 
 ## 4. The Privacy Policy
 
@@ -68,7 +72,7 @@ Users under 18 may **not**:
 
 - Link a PayPal account or request payouts in real currency unless verified parental consent is provided and such payouts comply with applicable laws.
 
-### 5.3 User Content
+#### 5.3 User Content
 
 You retain ownership of all content you upload, post, or share on the Service ("User Content"). By submitting User Content, you grant us a worldwide royalty-free, transferable, sub-licensable, perpetual license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content license to use, display, and distribute your content solely to operate and improve the Service. 
 
@@ -80,18 +84,14 @@ You are required to use our Services in accordance with the following terms:
 
 
 - You must provide accurate and up-to-date information during registration.
-- 
 - You must not impersonate anyone or anything.
 - You must not create an account for anyone else unless you have their expressed permission.
 - You must not manipulate, obscure, or alter the appearance of any information displayed on your profile or posts in a way that misleads others or interferes with the intended functionality of the Service.
 - You must not engage in fraudulent transactions, such as artificially inflating prices or coordinating with others to exploit the In-App Currency system.
 - You must not attempt to sell, transfer, or exchange In-App Currency outside of the platform.
-- You must not use misleading or deceptive tactics when pricing their content.
+- You must not use misleading or deceptive tactics when pricing your content.
 - You must not do anything unlawful, misleading, fraudulent, or for any illegal or unauthorized purpose, including scamming.
 - You must not violate (or help or encourage others to violate) these Terms or our policies, including the Community Guidelines.
-- 
-- If you post branded content, you must comply with our Branded Content Policies, which require you to use our branded content tool. Learn how to report conduct or content in our Help Center.
-- 
 - You must not do anything to interfere with or impair the intended operation of the Service.
 - You must not misuse any reporting, dispute, or appeals channel, such as by making fraudulent or groundless reports or appeals.
 - You must not attempt to create accounts in any automated or unauthorized ways.
@@ -100,14 +100,16 @@ You are required to use our Services in accordance with the following terms:
 - You must not solicit, collect, or use login credentials of other users.
 - You must not request or collect BoomBoom usernames or passwords.
 - You must not post someone else’s private or confidential information without permission or do anything that violates someone else's rights, including intellectual property rights (e.g., copyright infringement, trademark infringement, counterfeit, or pirated goods).
-- You must not create derivative works from, or reverse engineer, any part of our Services (including modifying, translating).
-- You must not have a username which goes against the Community Guidelines
+- You must not create derivative works from, or reverse engineer, any part of our Services (including modifying, translating, copying).
+- You must not upload any content (including username) which goes against the Community Guidelines.
 - You must not attempt to bypass, disable, or otherwise interfere with any technological measures designed to control or restrict access to the Service or its data.
 
 
-Permission to use your username, profile picture, and information about your relationships and actions with accounts, ads, and sponsored content.
-You give us permission to show your username, profile picture, and information about your actions (such as likes) or relationships (such as follows) next to or in connection with accounts, ads, offers, and other sponsored content that you follow or engage with that are displayed on Meta Products, without any compensation to you. For example, we may show that you liked a sponsored post created by a brand that has paid us to display its ads on Instagram. As with actions on other content and follows of other accounts, actions on sponsored content and follows of sponsored accounts can be seen only by people who have permission to see that content or follow. We will also respect your ad settings. You can learn more here about your ad settings.
-You agree that we can download and install updates to the Service on your device.
+#### 5.5 Permissions you grant us
+
+By using BoomBoom, you grant us permission to display your username, profile picture, and details about your interactions (such as unlocking posts or following accounts) alongside advertisements, promotions, or sponsored content that you engage with. This may include showing that you unlocked or interacted with a sponsored post from a business that has paid for advertising on BoomBoom. You acknowledge that you will not receive compensation for these displays.
+
+Your interactions with sponsored content and accounts will only be visible to those who have permission to see such content based on their settings.
 
 ## 6. Payments and Financial Features
 
