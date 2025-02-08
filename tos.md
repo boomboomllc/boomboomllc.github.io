@@ -19,11 +19,11 @@ By using our Services, you acknowledge that you have read and understood these T
 
 ## 2. Eligibility
 
-Our Services are not directed to children under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we gather knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. Please read all such terms carefully. By using the Services, you represent, warrant, and agree that:
+Our Services are not designed for anyone under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we gather information indicating that you are below the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. Please read all such terms carefully. By using the Services, you represent, warrant, and agree that:
 
-- You can form a binding contract with BoomBoom;
-- You are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
-- You are not a convicted sex offender;
+- You can form a binding contract with BoomBoom.
+- You are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition.
+- You are not a convicted sex offender.
 - We have not previously disabled your account(s) for violation of law or any of our policies.
 - You will comply with these Terms (including any other terms and policies referenced in these Terms, such as the Community Guidelines and the Commercial Content Policy) and all applicable local, state, national, and international laws, rules, and regulations.
 
@@ -43,9 +43,11 @@ This website uses third-party advertising partners that may use cookies to serve
 
 {% You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here. %}
 
+
 ## 4. The Privacy Policy
 
-Providing our Service requires collecting and using your information. The Privacy Policy explains how we collect and use that information. It also explains the ways you can control your information, including in the BoomBoom Privacy Settings. You must agree to the Privacy Policy to use BoomBoom.
+Our service requires collecting and using your information. Your use of the Service is governed by our [Privacy Policy](/privacy-policy/). By using the Service, you agree to our Privacy Policy. 
+
 
 ## 5. Your Responsibilities
 
@@ -82,7 +84,6 @@ You are prohibited from uploading content that is illegal, harmful, goes against
 
 You are required to use our Services in accordance with the following terms:
 
-
 - You must provide accurate and up-to-date information during registration.
 - You must not impersonate anyone or anything.
 - You must not create an account for anyone else unless you have their expressed permission.
@@ -109,15 +110,23 @@ You are required to use our Services in accordance with the following terms:
 
 By using BoomBoom, you grant us permission to display your username, profile picture, and details about your interactions (such as unlocking posts or following accounts) alongside advertisements, promotions, or sponsored content that you engage with. This may include showing that you unlocked or interacted with a sponsored post from a business that has paid for advertising on BoomBoom. You acknowledge that you will not receive compensation for these displays.
 
-Your interactions with sponsored content and accounts will only be visible to those who have permission to see such content based on their settings.
+## 1. Content Unlocking & Access
+
+Some content on BoomBoom may require payment via our in-app currency to unlock.
+All purchases are final, except in cases where a refund is required by law or at our discretion.
+If your account is suspended or terminated for violating our policies, you may lose access to previously unlocked content without a refund.
+3. Free & Paid Content
+
+Content creators may offer free or paid posts. Prices and availability are determined by the creator.
+We do not guarantee continued availability of any specific content, and creators may remove or restrict access at their discretion.
 
 ## 6. Payments and Financial Features
 
-### 6.1 In-App Purchases (IAP)
+#### 6.1 In-App Purchases (IAP)
 
 All purchases made via in-app payments are final. No refunds will be issued unless required by law. IAP transactions are processed through the respective app store (Apple App Store or Google Play Store), and their terms apply.
 
-### 6.2 Payouts
+#### 6.2 Payouts
 
 Users **18 years or older** may link a **verified PayPal account** to receive payouts. Users under 18 are prohibited from linking a PayPal account or receiving payouts.
 
@@ -131,17 +140,16 @@ Additionally, you agree that:
 
 By using PayPal for payouts, you acknowledge that PayPal is a third-party service, and **BoomBoom is not liable** for any issues, disputes, or financial losses related to your PayPal account or transactions.  
 
-## 7. Privacy and Data Collection
 
-Your use of the Service is governed by our [Privacy Policy](/privacy-policy/). By using the Service, you agree to our data collection and use practices. For users under 18, additional protections may apply, including restrictions on financial features.
+
 
 ## 8. Modifications to the Service
 
-We may modify or discontinue the Service or any part of it without notice or liability to you. Significant changes to the Service will be communicated through updates to these Terms or notifications within the app.
+We may modify or discontinue the Service or any part of it without notice or liability to you. Significant changes to the Service may be communicated through updates to these Terms or notifications within the app, at our sole discretion.
 
 ## 9. Termination
 
-We reserve the right to suspend or terminate your account if you violate these Terms. Upon termination, your right to use the Service ceases immediately, and any pending payouts may be forfeited.
+We reserve the right to suspend or terminate your account if you violate these Terms. Upon termination, your right to use the Service ceases immediately, and any pending payouts and remaining account balance may be forfeited.
 
 ## 10. Contact Us
 
