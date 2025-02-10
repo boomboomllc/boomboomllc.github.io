@@ -91,7 +91,7 @@ You are required to use our Services in accordance with the following terms:
 - You must not engage in fraudulent transactions, such as artificially inflating prices or coordinating with others to exploit the In-App Currency system.
 - You must not attempt to sell, transfer, or exchange In-App Currency outside of the platform.
 - You must not use misleading or deceptive tactics when pricing your content.
-- You must not do anything unlawful, misleading, fraudulent, or for any illegal or unauthorized purpose, including scamming.
+- You must not do anything which may be considered misleading, fraudulent, unlawful, or for any illegal or unauthorized purpose.
 - You must not violate (or help or encourage others to violate) these Terms or our policies, including the Community Guidelines.
 - You must not do anything to interfere with or impair the intended operation of the Service.
 - You must not misuse any reporting, dispute, or appeals channel, such as by making fraudulent or groundless reports or appeals.
