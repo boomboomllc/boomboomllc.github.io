@@ -64,5 +64,4 @@ We may update this Privacy Policy from time to time. Changes will be posted in t
 
 ## 8. Contact Us  
 
-If you have any questions, reach out to:  
-📧 [Your Contact Email]  
+If you have any questions, reach out to:  boomboomapps.biz@gmail.com
