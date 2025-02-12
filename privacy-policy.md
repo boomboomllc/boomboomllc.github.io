@@ -5,9 +5,9 @@ permalink: /privacy-policy/
 ---
 
 # Privacy Policy  
-**Effective Date:** [Insert Date]  
+**Effective Date:** 2/1/2025
 
-[App Name] ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information when using our iOS app.  
+BoomBoom ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information when using our iOS app.  
 
 ## 1. Information We Collect  
 
@@ -30,17 +30,18 @@ We use the collected data to:
 
 ## 3. Third-Party Services & Data Sharing  
 
-We do **not** sell or rent your data. However, we may share some information with:  
+We **may** share your data with third-party partners for advertising purposes. These partners may use your information to serve personalized ads across various platforms. This includes:  
 
+- **Advertising Partners:** We may share your data with advertisers such as Google, Facebook, and other advertising networks. These companies may use your data to serve targeted ads based on your interests.  
 - **Firebase by Google:** Used for analytics, crash reporting, and app performance monitoring. Google’s Privacy Policy can be found [here](https://policies.google.com/privacy).  
 - **Apple Analytics:** We may use Apple’s built-in analytics tools to understand app performance.  
 - **Legal Compliance:** If required by law, we may disclose data to law enforcement or regulators.  
 
 ## 4. App Tracking & User Control  
 
-- We do **not** track you across other apps or websites.  
-- If we introduce personalized ads, we will request your consent through Apple’s **App Tracking Transparency (ATT)** framework.  
-- You can opt out of Firebase Analytics data collection by adjusting your app settings or device privacy settings.  
+- We may track your activities within the app and across other services for targeted advertising.  
+- **App Tracking Transparency (ATT):** We will request your consent through Apple’s ATT framework to enable cross-app tracking and personalized ads.  
+- You can manage your advertising preferences by adjusting your device settings, including opting out of targeted advertising via Apple's privacy settings or third-party settings.  
 
 ## 5. Data Retention & Security  
 
@@ -54,6 +55,7 @@ Depending on your location, you may have rights to:
 
 - **Access, update, or delete your personal data.**  
 - **Opt-out of analytics tracking** via device settings.  
+- **Opt-out of personalized ads** and data sharing for advertising by adjusting your device settings or through third-party opt-out tools.  
 - **Request a copy of your data** or withdraw consent for data collection.  
 
 To exercise your rights, contact us at [Your Contact Email].  
@@ -63,3 +65,7 @@ To exercise your rights, contact us at [Your Contact Email].
 We may update this Privacy Policy from time to time. Changes will be posted in the app and on our website. Continued use of the app after updates means you accept the new terms.  
 
 ## 8. Contact Us  
+
+If you have any questions, reach out to:  
+📧 [Your Contact Email]  
+
