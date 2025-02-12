@@ -63,5 +63,3 @@ To exercise your rights, contact us at [Your Contact Email].
 We may update this Privacy Policy from time to time. Changes will be posted in the app and on our website. Continued use of the app after updates means you accept the new terms.  
 
 ## 8. Contact Us  
-
-If you have any questions, reach out to:  boomboomapps.biz@gmail.com
