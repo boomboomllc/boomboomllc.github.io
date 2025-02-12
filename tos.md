@@ -29,7 +29,7 @@ Our Services are not designed for anyone under the age of 13, and you must confi
 
 At this time, BoomBoom is only available for individual users. Businesses, brands, and other commercial entities are not permitted to create accounts or use the platform. We may update this policy in the future to allow brand or business accounts. Any changes will be reflected in an updated version of these Terms.
 
-{% If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity). %}
+{% comment %} If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity). {% endcomment %}
 
 ## 3. How Our Service Is Funded
 
@@ -41,7 +41,7 @@ We may also provide advertisers with reports about the performance of their ads 
 
 This website uses third-party advertising partners that may use cookies to serve ads based on your non-personal browsing behavior. For more information on how these partners use cookies, please refer to their privacy policies.
 
-{% You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here. %}
+{% comment %} You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here. {% endcomment %}
 
 
 ## 4. The Privacy Policy
