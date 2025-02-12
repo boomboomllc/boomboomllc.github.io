@@ -4,7 +4,7 @@ permalink: /tos/
 ---
 
 # Terms of Service
-
+ 
 **Effective Date:** 1/15/2025
 
 These Terms of Service (the "Terms") set forth the terms and conditions governing your access to and use of the platform, mobile application, services, and all related features, content, and functionality (collectively, the "Service") provided by BoomBoom LLC ("BoomBoom," "we," "our," or "us").
