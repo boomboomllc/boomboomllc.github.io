@@ -9,13 +9,11 @@ permalink: /tos/
 
 These Terms of Service (the "Terms") set forth the terms and conditions governing your access to and use of the platform, mobile application, services, and all related features, content, and functionality (collectively, the "Service") provided by BoomBoom LLC ("BoomBoom," "we," "our," or "us").
 
-By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Services.
-
-Your continued use of the Services constitutes your acceptance of these Terms as updated or amended from time to time. It is your responsibility to review these Terms periodically to ensure ongoing compliance.
+By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Services. 
 
 ## 1. Acceptance of Terms
 
-By using our Services, you acknowledge that you have read and understood these Terms and agree to be legally bound by them. These Terms may be updated from time to time, and we will notify you of any significant changes. Your continued use of the Services after any changes to these Terms will constitute acceptance of those changes.
+By using our Services, you acknowledge that you have read and understood these Terms and agree to be legally bound by them. These Terms may be updated from time to time, and we will notify you of any significant changes. Your continued use of the Services after any changes to these Terms will constitute acceptance of those changes. It is your responsibility to review these Terms periodically to ensure ongoing compliance.
 
 ## 2. Eligibility
 
@@ -25,7 +23,7 @@ Our Services are not designed for anyone under the age of 13, and you must confi
 - You are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition.
 - You are not a convicted sex offender.
 - We have not previously disabled your account(s) for violation of law or any of our policies.
-- You will comply with these Terms (including any other terms and policies referenced in these Terms, such as the Community Guidelines and the Commercial Content Policy) and all applicable local, state, national, and international laws, rules, and regulations.
+- You will comply with these Terms (including any other terms and policies referenced in these Terms, such as the Community Guidelines) and all applicable local, state, national, and international laws, rules, and regulations.
 
 At this time, BoomBoom is only available for individual users. Businesses, brands, and other commercial entities are not permitted to create accounts or use the platform. We may update this policy in the future to allow brand or business accounts. Any changes will be reflected in an updated version of these Terms.
 
@@ -35,11 +33,11 @@ At this time, BoomBoom is only available for individual users. Businesses, brand
 
 Apple mandates the use of in-app purchases, which means a 30% fee goes straight to Apple for all lux purchases. In an effort to minimize further fees and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
-We may show you relevant and useful ads without telling advertisers who you are. We do not sell your personal data. We may allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We may then show their ad to people who might be interested.
+We may show you ads that we think are relevant to you without telling advertisers who you are. We do not sell your personal data. We may allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We may then show their ad to people who might be interested.
 
 We may also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off BoomBoom. For example, we may provide general demographic and interest information to advertisers to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are). Learn more about how BoomBoom ads work here.
 
-This website uses third-party advertising partners that may use cookies to serve ads based on your non-personal browsing behavior. For more information on how these partners use cookies, please refer to their privacy policies.
+{% comment %} This website uses third-party advertising partners that may use cookies to serve ads based on your non-personal browsing behavior. For more information on how these partners use cookies, please refer to their privacy policies. {% endcomment %}
 
 {% comment %} You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here. {% endcomment %}
 
@@ -55,24 +53,24 @@ Our service requires collecting and using your information. Your use of the Serv
 
 To use certain features of the Service, you must create an account. You agree to provide accurate, current, and complete information during the registration process and update your information as necessary.
 
-You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use or security breaches.
+You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to notify us immediately at ***support@boomboom.email*** of any unauthorized use or security breaches.
 
 #### 5.2 Age-Based Restrictions
 
-Users must be 18 or older to access the full-features of our Services. Users must be 13 or older to access our Services at all.
+Users must be 13 or older to access our services or create an account. Users must be 18 or older to access the full-features of our Services. 
 
-Users under the age of 13 may **not**:
+Any person under the age of 13 may **not**:
 
-- Access or use any of our provided Services.
+- Access or use any of our Services.
 
-Users under the age of 18 may:
+Users between the ages of 13 and 17 may:
 
 - Access non-financial features of the Service, including earning virtual points or in-app rewards.
 - Make purchases via in-app payments (IAP) in compliance with platform guidelines.
 
-Users under 18 may **not**:
+Users between the ages of 13 and 17 may **not**:
 
-- Link a PayPal account or request payouts in real currency unless verified parental consent is provided and such payouts comply with applicable laws.
+- Link a PayPal account or request payouts in real currency.
 
 #### 5.3 User Content
 
@@ -84,15 +82,15 @@ You are prohibited from uploading content that is illegal, harmful, goes against
 
 You are required to use our Services in accordance with the following terms:
 
-- You must provide accurate and up-to-date information during registration.
 - You must not impersonate anyone or anything.
 - You must not create an account for anyone else unless you have their expressed permission.
+- You must not upload any content (including username) which goes against the Community Guidelines.
 - You must not manipulate, obscure, or alter the appearance of any information displayed on your profile or posts in a way that misleads others or interferes with the intended functionality of the Service.
-- You must not engage in fraudulent transactions, such as artificially inflating prices or coordinating with others to exploit the In-App Currency system.
-- You must not attempt to sell, transfer, or exchange In-App Currency outside of the platform.
+- You must not engage in fraudulent transactions, such as artificially influencing prices or coordinating with others to exploit the in-app currency or payout systems.
+- You must not attempt to sell, transfer, or exchange in-app currency outside of the platform.
 - You must not use misleading or deceptive tactics when pricing your content.
 - You must not do anything which may be considered misleading, fraudulent, unlawful, or for any illegal or unauthorized purpose.
-- You must not violate (or help or encourage others to violate) these Terms or our policies, including the Community Guidelines.
+- You must not violate (or help or encourage others to violate) these Terms or any of our policies.
 - You must not do anything to interfere with or impair the intended operation of the Service.
 - You must not misuse any reporting, dispute, or appeals channel, such as by making fraudulent or groundless reports or appeals.
 - You must not attempt to create accounts in any automated or unauthorized ways.
@@ -102,46 +100,58 @@ You are required to use our Services in accordance with the following terms:
 - You must not request or collect BoomBoom usernames or passwords.
 - You must not post someone else’s private or confidential information without permission or do anything that violates someone else's rights, including intellectual property rights (e.g., copyright infringement, trademark infringement, counterfeit, or pirated goods).
 - You must not create derivative works from, or reverse engineer, any part of our Services (including modifying, translating, copying).
-- You must not upload any content (including username) which goes against the Community Guidelines.
 - You must not attempt to bypass, disable, or otherwise interfere with any technological measures designed to control or restrict access to the Service or its data.
 
 
 #### 5.5 Permissions you grant us
 
-By using BoomBoom, you grant us permission to display your username, profile picture, and details about your interactions (such as unlocking posts or following accounts) alongside advertisements, promotions, or sponsored content that you engage with. This may include showing that you unlocked or interacted with a sponsored post from a business that has paid for advertising on BoomBoom. You acknowledge that you will not receive compensation for these displays.
+By using BoomBoom, you grant us permission to display your username, profile picture, and other public details (such as posts or ratings) alongside advertisements, promotions, or sponsored content that you engage with. This may include showing that you unlocked or interacted with a sponsored post from a business that has paid for advertising on BoomBoom. You acknowledge that you will not receive compensation for these displays.
 
-## 1. Content Unlocking & Access
+## 6. Content Unlocking & Access
 
-Some content on BoomBoom may require payment via our in-app currency to unlock.
-All purchases are final, except in cases where a refund is required by law or at our discretion.
-If your account is suspended or terminated for violating our policies, you may lose access to previously unlocked content without a refund.
-3. Free & Paid Content
+Some content on BoomBoom may require payment via our in-app currency to unlock. Prices and availability are determined by the creator. We do not guarantee continued availability of any specific content, and creators may remove or restrict access for potential purchasers at their discretion.
 
-Content creators may offer free or paid posts. Prices and availability are determined by the creator.
-We do not guarantee continued availability of any specific content, and creators may remove or restrict access at their discretion.
+All purchases of content within the app are final, except in cases where a refund is required by law or at our discretion.
 
-## 6. Payments and Financial Features
+If your account is suspended or terminated for violating our policies, you may lose access to previously unlocked content without a refund. 
 
-#### 6.1 In-App Purchases (IAP)
+## 7. Payments and Financial Features
 
-All purchases made via in-app payments are final. No refunds will be issued unless required by law. IAP transactions are processed through the respective app store (Apple App Store or Google Play Store), and their terms apply.
+#### 7.1 In-App Purchases (IAP)
 
-#### 6.2 Payouts
+In-app purchases or transactions are processed through the Apple App Store, and their terms apply. All purchases of in-app currency within the app are final, except in cases where a refund is required by law.
+
+#### 7.2 Payouts
+
+##### 7.2.a Payout Methods
+
+Payouts for our in-app currency within the app will be processed exclusively through supported payment platforms, which currently include PayPal. In the future, we may introduce additional payout platforms such as Venmo or other payment services. The availability of payout platforms may vary by region and other eligibility factors.
 
 Users **18 years or older** may link a **verified PayPal account** to receive payouts. Users under 18 are prohibited from linking a PayPal account or receiving payouts.
 
-By linking a PayPal account, you explicitly agree to **all PayPal Terms of Service** and **Privacy Policy**, as stated in **[Clause 2: Third-Party Services & PayPal Integration](#2-third-party-services--paypal-integration)**. This includes, but is not limited to, compliance with PayPal's **Acceptable Use Policy**, **account verification requirements**, and **restrictions on payments**.
+By linking a PayPal account, you explicitly agree to **all PayPal Terms of Service** and **Privacy Policy**, as stated in **[Clause 2: Third-Party Services & PayPal Integration](#2-third-party-services--paypal-integration)**. This includes, but is not limited to, compliance with PayPal's **Acceptable Use Policy**, **account verification requirements**, and **restrictions on payments**. If you do not accept PayPal’s terms, you must refrain from using PayPal-related features within the Service.
 
 Additionally, you agree that:  
 - You may **only link and use a PayPal account registered in your own name**. Linking third-party or unauthorized accounts is strictly prohibited.  
-- We **reserve the right to review and verify** any payout requests for compliance with these Terms.  
-- Payouts are **subject to processing delays, fees, and limitations** imposed by PayPal. BoomBoom is not responsible for any issues arising from PayPal’s availability, security, or their enforcement of policies.  
+- We **reserve the right to review and verify** any payout requests for compliance with these Terms.
+- You grant BoomBoom permission to access and process necessary account-related information as required by PayPal’s API.
+- You understand that BoomBoom is not responsible for PayPal’s services, availability, security, or any disputes related to PayPal transactions.
+- You understand that payouts are **subject to processing delays, fees, and limitations** imposed by PayPal. BoomBoom is not responsible for any issues arising from PayPal’s availability, security, or their enforcement of policies.  
 - In cases of fraud, dispute, or violation of these Terms, we may **suspend, withhold, or revoke** any payouts at our sole discretion.  
 
-By using PayPal for payouts, you acknowledge that PayPal is a third-party service, and **BoomBoom is not liable** for any issues, disputes, or financial losses related to your PayPal account or transactions.  
+By using PayPal for payouts, you acknowledge that PayPal is a third-party service, and **BoomBoom is not liable** for any issues, disputes, or financial losses related to your PayPal account or transactions. 
 
+##### 7.2.b Payout Timeline
 
+Payouts will be initiated within 30 calendar days of the completion of a qualifying exchange. Processing times may vary depending on the payment platform’s policies and external factors, including but not limited to banking holidays, compliance reviews, or technical issues. Users acknowledge that the company is not liable for delays caused by the payment platform or external systems.
 
+##### 7.2.c Fees and Deductions
+
+All payouts are subject to any applicable transaction fees or service charges imposed by the payment platform. Such fees will be automatically deducted from the payout amount unless otherwise specified. Users are responsible for reviewing the payment platform’s fee structure prior to use.
+
+##### 7.2.d Future Platform Updates
+
+We reserve the right to add, remove, or modify supported payout platforms at our discretion. Users will be notified of any changes via in-app notifications or email updates, as applicable.
 
 ## 8. Modifications to the Service
 
@@ -149,14 +159,14 @@ We may modify or discontinue the Service or any part of it without notice or lia
 
 ## 9. Termination
 
-We reserve the right to suspend or terminate your account if you violate these Terms. Upon termination, your right to use the Service ceases immediately, and any pending payouts and remaining account balance may be forfeited.
+We reserve the right to suspend or terminate your account if you violate these Terms. Upon termination, your right to use the Service ceases immediately, and any pending payouts, liscenses, and remaining account balance may be forfeited.
 
 ## 10. Contact Us
 
 If you have any questions about these Terms or need support, please contact us at:
 
-**BoomBoom LLC**  
-**Email:** [support@boomboom.email]   
+**BoomBoom Support**  
+**Email:** [support@boomboom.email](mailto: support@boomboom.email)
 
 ---
 
@@ -164,33 +174,11 @@ If you have any questions about these Terms or need support, please contact us a
 
 
 
----------
-
-## 2. Third-Party Services & PayPal Integration
-
-Some features of the Service may rely on third-party integrations, including but not limited to **PayPal OAuth2 authentication** for payment-related functionalities. By choosing to use PayPal within our Service, you acknowledge and agree to:
-
-- Comply with **[PayPal’s Terms of Service](https://www.paypal.com/us/legalhub/useragreement-full)** and **[Privacy Policy](https://www.paypal.com/us/legalhub/privacy-full)**, which govern your use of their authentication and payment services.
-- Grant BoomBoom permission to access and process necessary account-related information as required by PayPal’s API.
-- Understand that BoomBoom is not responsible for PayPal’s services, availability, security, or any disputes related to PayPal transactions.
-
-By utilizing the PayPal integration, you expressly agree to **PayPal’s terms**, and it is your responsibility to review their policies before proceeding. If you do not accept PayPal’s terms, you must refrain from using PayPal-related features within the Service.
-
 
 ---------
 1. Payouts and Payment Terms
 
-1.1 Payout Methods
-Payouts for earnings resulting from exchanges conducted within the app will be processed exclusively through supported payment platforms, which currently include PayPal. In the future, we may introduce additional payout platforms such as Venmo or other payment services. The availability of payout platforms may vary by region and other eligibility factors.
-
-1.2 Payout Timeline
-Payouts will be initiated within 14 calendar days of the completion of a qualifying exchange. Processing times may vary depending on the payment platform’s policies and external factors, including but not limited to banking holidays, compliance reviews, or technical issues. Users acknowledge that the company is not liable for delays caused by the payment platform or external systems.
-
-1.3 Fees and Deductions
-All payouts are subject to any applicable transaction fees or service charges imposed by the payment platform. Such fees will be automatically deducted from the payout amount unless otherwise specified. Users are responsible for reviewing the payment platform’s fee structure prior to use.
-
-1.4 Future Platform Updates
-We reserve the right to add, remove, or modify supported payout platforms at our discretion. Users will be notified of any changes via in-app notifications or email updates, as applicable.
+ 
 
 2. User Eligibility
 
