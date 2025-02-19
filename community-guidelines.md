@@ -72,3 +72,5 @@ permalink: /community-guidelines/
 - Legal violations may result in the involvement of law enforcement authorities.  
 
 By adhering to these guidelines, you help us maintain a safe, enjoyable, and respectful community. Thank you for being a valued member of BoomBoom!
+
+For any questions or concerns, please email us at ***support@boomboom.email***
