@@ -156,7 +156,7 @@ We reserve the right to suspend or terminate your account if you violate these T
 If you have any questions about these Terms or need support, please contact us at:
 
 **BoomBoom LLC**  
-**Email:** [support@boomboom.com]   
+**Email:** [support@boomboom.email]   
 
 ---
 
