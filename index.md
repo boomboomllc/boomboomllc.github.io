@@ -3,11 +3,15 @@ layout: default
 title: BoomBoom
 ---
 
-# Welcome to BoomBoom!
+# BoomBoom Legal Hub
 
-## Get Started
-Explore the app, and enjoy everything we have to offer!
+Welcome to BoomBoom's official legal documentation center. Here, you can find all the important policies that govern the use of our services.
 
-- [Terms of Service](./terms-of-service)
-- [Privacy Policy](./privacy-policy)
-- [Cookie Policy](./community-guidelines)
+## Legal Documents
+Review our terms and policies:
+
+- 📜 [Terms of Service](./tos)
+- 🔒 [Privacy Policy](./privacy-policy)
+- 🍪 [Cookie Policy](./cookie-policy)
+
+For any inquiries, reach out to [support@boomboom.email](mailto:support@boomboom.email).
