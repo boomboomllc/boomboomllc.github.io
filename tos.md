@@ -11,10 +11,12 @@ These Terms of Service (the "Terms") set forth the terms and conditions governin
 
 By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Services. 
 
+---
 ## 1. Acceptance of Terms
 
 By using our Services, you acknowledge that you have read and understood these Terms and agree to be legally bound by them. These Terms may be updated from time to time, and we will notify you of any significant changes. Your continued use of the Services after any changes to these Terms will constitute acceptance of those changes. It is your responsibility to review these Terms periodically to ensure ongoing compliance.
 
+---
 ## 2. Eligibility
 
 Our Services are not designed for anyone under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we gather information indicating that you are below the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. Please read all such terms carefully. By using the Services, you represent, warrant, and agree that:
@@ -29,6 +31,7 @@ At this time, BoomBoom is only available for individual users. Businesses, brand
 
 {% comment %} If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity). {% endcomment %}
 
+---
 ## 3. How Our Service Is Funded
 
 Apple mandates the use of in-app purchases, which means a 30% fee goes straight to Apple for all lux purchases. In an effort to minimize further fees and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
@@ -42,11 +45,13 @@ We may also provide advertisers with reports about the performance of their ads 
 {% comment %} You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here. {% endcomment %}
 
 
+---
 ## 4. The Privacy Policy
 
 Our service requires collecting and using your information. Your use of the Service is governed by our [Privacy Policy](/privacy-policy/). By using the Service, you agree to our Privacy Policy. 
 
 
+---
 ## 5. Your Responsibilities
 
 #### 5.1 Account Registration and Security
@@ -107,6 +112,7 @@ You are required to use our Services in accordance with the following terms:
 
 By using BoomBoom, you grant us permission to display your username, profile picture, and other public details (such as posts or ratings) alongside advertisements, promotions, or sponsored content that you engage with. This may include showing that you unlocked or interacted with a sponsored post from a business that has paid for advertising on BoomBoom. You acknowledge that you will not receive compensation for these displays.
 
+---
 ## 6. Content Unlocking & Access
 
 Some content on BoomBoom may require payment via our in-app currency to unlock. Prices and availability are determined by the creator. We do not guarantee continued availability of any specific content, and creators may remove or restrict access for potential purchasers at their discretion.
@@ -115,6 +121,7 @@ All purchases of content within the app are final, except in cases where a refun
 
 If your account is suspended or terminated for violating our policies, you may lose access to previously unlocked content without a refund. 
 
+---
 ## 7. Payments and Financial Features
 
 #### 7.1 In-App Purchases (IAP)
@@ -153,14 +160,17 @@ All payouts are subject to any applicable transaction fees or service charges im
 
 We reserve the right to add, remove, or modify supported payout platforms at our discretion. Users will be notified of any changes via in-app notifications or email updates, as applicable.
 
+---
 ## 8. Modifications to the Service
 
 We may modify or discontinue the Service or any part of it without notice or liability to you. Significant changes to the Service may be communicated through updates to these Terms or notifications within the app, at our sole discretion.
 
+---
 ## 9. Termination
 
 We reserve the right to suspend or terminate your account if you violate these Terms. Upon termination, your right to use the Service ceases immediately, and any pending payouts, liscenses, and remaining account balance may be forfeited.
 
+---
 ## 10. Contact Us
 
 If you have any questions about these Terms or need support, please contact us at:
