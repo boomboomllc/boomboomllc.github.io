@@ -12,6 +12,6 @@ Review our terms and policies:
 
 - 📜 [Terms of Service](./tos)
 - 🔒 [Privacy Policy](./privacy-policy)
-- 🍪 [Cookie Policy](./cookie-policy)
+- 🍪 [Community Guidelines](./community-guidelines)
 
 For any inquiries, reach out to [support@boomboom.email](mailto:support@boomboom.email).
