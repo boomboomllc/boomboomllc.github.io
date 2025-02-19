@@ -65,12 +65,12 @@ Any person under the age of 13 may **not**:
 
 Users between the ages of 13 and 17 may:
 
-- Access non-financial features of the Service, including earning virtual points or in-app rewards.
+- Access features of the Service that do not interact with real currency, including earning virtual points or using them to unlock posts.
 - Make purchases via in-app payments (IAP) in compliance with platform guidelines.
 
 Users between the ages of 13 and 17 may **not**:
 
-- Link a PayPal account or request payouts in real currency.
+- Link a third-party financial account (such as PayPal) or request payouts in real currency.
 
 #### 5.3 User Content
 
