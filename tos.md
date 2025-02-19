@@ -66,7 +66,7 @@ Any person under the age of 13 may **not**:
 Users between the ages of 13 and 17 may:
 
 - Access features of the Service that do not interact with real currency, including earning and spending virtual points.
-- Make purchases via in-app payments (IAP) in compliance with platform guidelines.
+- Make purchases via in-app purchases in compliance with platform guidelines.
 
 Users between the ages of 13 and 17 may **not**:
 
