@@ -5,8 +5,7 @@ title: BoomBoom
 
 # BoomBoom Directory 
 
-## Legal Documents  
-Review our terms and policies:  
+### Review our terms and policies:  
 
 - 📜 <!-- [Terms of Service](./tos) --> Terms of Service  (coming soon)
 - 🔒 <!-- [Privacy Policy](./privacy-policy) --> Privacy Policy  (coming soon)
