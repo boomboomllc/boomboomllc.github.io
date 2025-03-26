@@ -1,15 +1,18 @@
 ---
-layout: landing
-title: BoomBoom LLC
+layout: default
+title: BoomBoom
 ---
 
-# BoomBoom LLC
+# We're under construction, check back soon!
 
-Welcome to **BoomBoom LLC** – the next-level solution for seamless app experiences. Our products are designed with precision, speed, and reliability. 
+<!-- 
+# BoomBoom Directory 
 
-## 🚀 Features  
-- 🔒 **Secure and Private:** Your data is safe with us.  
-- ⚡ **Fast Performance:** Lightning speed for all your tasks.  
-- 🌟 **User-Friendly:** Intuitive design, easy to use.  
+### Review our terms and policies:  
+-->
 
-[Download on the App Store](https://apps.apple.com/us/app/boomboom)
+<!-- - 📜 [Terms of Service](./tos) (coming soon) -->
+<!-- - 🔒 [Privacy Policy](./privacy-policy) (coming soon) -->
+<!-- - 🤝 [Community Guidelines](./community-guidelines) (coming soon) -->
+
+For any inquiries, reach out to [support@boomboom.email](mailto:support@boomboom.email).
