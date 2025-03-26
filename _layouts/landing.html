@@ -1,0 +1,131 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 40px;
+      background: #f8f8f8;
+      border-bottom: 1px solid #ddd;
+    }
+    .menu a, .cta-btn {
+      color: #333;
+      text-decoration: none;
+      margin: 0 15px;
+      transition: color 0.3s;
+    }
+    .menu a:hover, .cta-btn:hover {
+      color: #007BFF;
+    }
+    .hero {
+      text-align: center;
+      padding: 100px 20px;
+      background: #f4f4f4;
+    }
+    .hero h1 {
+      font-size: 48px;
+      color: #333;
+    }
+    .hero p {
+      font-size: 20px;
+      color: #666;
+      margin: 20px 0;
+    }
+    .cta-btn {
+      display: inline-block;
+      padding: 15px 30px;
+      background: #007BFF;
+      color: #fff;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 18px;
+    }
+    .features {
+      display: flex;
+      justify-content: space-around;
+      padding: 60px 20px;
+      background: #fff;
+    }
+    .feature {
+      text-align: center;
+      max-width: 300px;
+    }
+    .feature img {
+      width: 100px;
+      height: 100px;
+      margin-bottom: 20px;
+    }
+    .footer {
+      text-align: center;
+      padding: 20px;
+      background: #333;
+      color: #fff;
+    }
+    @media (max-width: 768px) {
+      .features {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h2>BoomBoom LLC</h2>
+  </div>
+  <nav class="menu">
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a>
+    <a href="/privacy-policy">Privacy Policy</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Welcome to BoomBoom LLC</h1>
+  <p>Your partner for innovative solutions. Elevate your experience with our products.</p>
+  <a href="https://apps.apple.com/us/app/boomboom" class="cta-btn">Download on the App Store</a>
+</section>
+
+<section class="features">
+  <div class="feature">
+    <img src="/assets/icons/secure.svg" alt="Secure">
+    <h3>Secure & Reliable</h3>
+    <p>Our products are built with security and reliability at their core.</p>
+  </div>
+  <div class="feature">
+    <img src="/assets/icons/fast.svg" alt="Fast">
+    <h3>Fast Performance</h3>
+    <p>Experience lightning-fast performance with every action.</p>
+  </div>
+  <div class="feature">
+    <img src="/assets/icons/support.svg" alt="Support">
+    <h3>24/7 Support</h3>
+    <p>Our support team is here to assist you anytime, anywhere.</p>
+  </div>
+</section>
+
+<footer class="footer">
+  <p>&copy; {{ site.time | date: '%Y' }} BoomBoom LLC | <a href="mailto:support@boomboom.email" style="color: #007BFF;">Contact Us</a></p>
+</footer>
+
+</body>
+</html>
