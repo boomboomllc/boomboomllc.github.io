@@ -1,24 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <style>
-        
-    </style>
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <style>
-  body {
+    body {
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
@@ -45,14 +33,14 @@
         margin-bottom: 16px;
     }
 
-    /* Fix bullet point alignment */
+    /* Bullet point alignment */
     ul {
-        list-style-position: outside; /* Ensures bullets align with left edge */
-        padding-left: 20px; /* Adjusts indentation */
+        list-style-position: outside;
+        padding-left: 20px;
     }
 
     li {
-        margin-bottom: 8px; /* Adds spacing between list items */
+        margin-bottom: 8px;
     }
 
     footer {
@@ -62,6 +50,7 @@
         font-size: 0.9em;
         color: #666;
     }
+
     header {
       display: flex;
       justify-content: space-between;
@@ -70,23 +59,25 @@
       background: #fff;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     }
+
     header .logo {
       font-size: 24px;
       font-weight: bold;
     }
+
     nav a {
       text-decoration: none;
       color: #333;
       margin: 0 15px;
       transition: color 0.3s;
     }
+
     nav a:hover {
       color: #007BFF;
     }
-      
-    
   </style>
 </head>
+
 <body>
 
 <header>
@@ -99,12 +90,13 @@
   </nav>
 </header>
 
-    <main>
-        {{ content }}
-    </main>
+<main>
+    {{ content }}
+</main>
 
+<footer>
+    <p>&copy; {{ site.time | date: "%Y" }} BoomBoom LLC. All rights reserved.</p>
+</footer>
 
-    <footer>
-        <p>&copy; {{ site.time | date: "%Y" }} BoomBoom LLC. All rights reserved.</p>
-    </footer>
 </body>
+</html>
