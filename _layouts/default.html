@@ -5,61 +5,106 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f8f9fa;
-            color: #333;
-            line-height: 1.6;
-        }
-
-        main {
-            max-width: 800px;
-            width: 90%;
-            margin: 40px auto;
-            padding: 30px;
-            background: #fff;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-
-        h1, h2, h3 {
-            color: #222;
-        }
-
-        p {
-            margin-bottom: 16px;
-        }
-
-        /* Fix bullet point alignment */
-        ul {
-            list-style-position: outside; /* Ensures bullets align with left edge */
-            padding-left: 20px; /* Adjusts indentation */
-        }
-
-        li {
-            margin-bottom: 8px; /* Adds spacing between list items */
-        }
-
-        footer {
-            text-align: center;
-            margin-top: 50px;
-            padding: 20px;
-            font-size: 0.9em;
-            color: #666;
-        }
+        
     </style>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+  body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f8f9fa;
+        color: #333;
+        line-height: 1.6;
+    }
+
+    main {
+        max-width: 800px;
+        width: 90%;
+        margin: 40px auto;
+        padding: 30px;
+        background: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+    }
+
+    h1, h2, h3 {
+        color: #222;
+    }
+
+    p {
+        margin-bottom: 16px;
+    }
+
+    /* Fix bullet point alignment */
+    ul {
+        list-style-position: outside; /* Ensures bullets align with left edge */
+        padding-left: 20px; /* Adjusts indentation */
+    }
+
+    li {
+        margin-bottom: 8px; /* Adds spacing between list items */
+    }
+
+    footer {
+        text-align: center;
+        margin-top: 50px;
+        padding: 20px;
+        font-size: 0.9em;
+        color: #666;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 40px;
+      background: #fff;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    header .logo {
+      font-size: 24px;
+      font-weight: bold;
+    }
+    nav a {
+      text-decoration: none;
+      color: #333;
+      margin: 0 15px;
+      transition: color 0.3s;
+    }
+    nav a:hover {
+      color: #007BFF;
+    }
+      
+    
+  </style>
 </head>
 <body>
+
+<header>
+  <div class="logo">BoomBoom LLC</div>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a>
+    <a href="/privacy-policy">Privacy Policy</a>
+  </nav>
+</header>
 
     <main>
         {{ content }}
     </main>
 
+
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} BoomBoom LLC. All rights reserved.</p>
     </footer>
-
 </body>
-</html>
