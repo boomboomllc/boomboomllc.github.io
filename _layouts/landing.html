@@ -1,6 +1,3 @@
----
-layout: default
----
 
 <!DOCTYPE html>
 <html lang="en">
@@ -41,89 +38,7 @@ layout: default
     nav a:hover {
       color: #007BFF;
     }
-    .carousel {
-      display: flex;
-      overflow: hidden;
-      width: 100%;
-      height: 450px;
-      position: relative;
-    }
-    .carousel img {
-      width: 100%;
-      object-fit: cover;
-      transition: transform 0.5s ease-in-out;
-    }
-    .carousel-btn {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      background: #fff;
-      border: none;
-      padding: 10px 20px;
-      cursor: pointer;
-      font-size: 18px;
-      z-index: 10;
-    }
-    .carousel-btn.left {
-      left: 20px;
-    }
-    .carousel-btn.right {
-      right: 20px;
-    }
-    .hero {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 80px 40px;
-      background: #f4f4f4;
-    }
-    .hero-text {
-      max-width: 600px;
-    }
-    .hero h1 {
-      font-size: 50px;
-      color: #333;
-    }
-    .hero p {
-      font-size: 18px;
-      color: #555;
-      margin: 20px 0;
-    }
-    .btn {
-      display: inline-block;
-      padding: 15px 30px;
-      background: #007BFF;
-      color: #fff;
-      text-decoration: none;
-      font-size: 18px;
-      border-radius: 5px;
-      transition: background 0.3s;
-    }
-    .btn:hover {
-      background: #0056b3;
-    }
-    .footer {
-      text-align: center;
-      padding: 40px 20px;
-      background: #333;
-      color: #fff;
-    }
-    .footer a {
-      color: #007BFF;
-      text-decoration: none;
-    }
-    .footer a:hover {
-      text-decoration: underline;
-    }
-    @media (max-width: 768px) {
-      .hero {
-        flex-direction: column;
-        text-align: center;
-      }
-      .carousel {
-        height: 300px;
-      }
-    }
+    
   </style>
 </head>
 <body>
@@ -138,52 +53,7 @@ layout: default
   </nav>
 </header>
 
-<section class="carousel">
-  <button class="carousel-btn left" onclick="prevSlide()">‹</button>
-  <img src="/assets/images/slide1.jpg" alt="App showcase">
-  <img src="/assets/images/slide2.jpg" alt="App feature">
-  <img src="/assets/images/slide3.jpg" alt="BoomBoom functionality">
-  <button class="carousel-btn right" onclick="nextSlide()">›</button>
-</section>
 
-<section class="hero">
-  <div class="hero-text">
-    <h1>The Unarchiver</h1>
-    <p>Unpack any archive, in no time. The Unarchiver is the world’s favorite RAR opener for Mac. Unlike Mac’s native tool, it’s sleeker and supports all known archive types.</p>
-    <a href="https://apps.apple.com/us/app/boomboom" class="btn">Download on the Mac App Store</a>
-  </div>
-  <div>
-    <img src="/assets/images/app-preview.png" alt="App Preview" width="400">
-  </div>
-</section>
-
-<footer class="footer">
-  <p>&copy; {{ site.time | date: '%Y' }} BoomBoom LLC | <a href="mailto:support@boomboom.email">Contact Us</a></p>
-</footer>
-
-<script>
-let currentSlide = 0;
-const slides = document.querySelectorAll('.carousel img');
-
-function showSlide(index) {
-  slides.forEach((slide, i) => {
-    slide.style.transform = `translateX(${100 * (i - index)}%)`;
-  });
-}
-
-function nextSlide() {
-  currentSlide = (currentSlide + 1) % slides.length;
-  showSlide(currentSlide);
-}
-
-function prevSlide() {
-  currentSlide = (currentSlide - 1 + slides.length) % slides.length;
-  showSlide(currentSlide);
-}
-
-document.addEventListener("DOMContentLoaded", () => {
-  showSlide(currentSlide);
-});
 </script>
 
 </body>
