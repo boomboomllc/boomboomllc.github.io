@@ -11,8 +11,9 @@ title: BoomBoom
       A clean, private platform for creators to share exclusive content and grow their audience. Launching soon on the iOS App Store.
     </p>
     <a href="#">
-      <img src="![Simulator Screenshot - iPhone 15 Pro Max - 2025-04-14 at 13 12 56](https://github.com/user-attachments/assets/e8808165-c868-458e-92aa-fe645b588e40)" alt="App Store" class="store-badge" />
+      <img src="https://github.com/user-attachments/assets/01f7c995-f489-4dc5-a47c-ed17c5024fb7" alt="App Store" class="store-badge" />
     </a>
+
     
   </div>
   <div class="right-section">
