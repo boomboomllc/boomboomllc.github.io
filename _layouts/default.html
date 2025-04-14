@@ -5,160 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #f8f9fa;
-        color: #333;
-        line-height: 1.6;
-    }
-
-    main {
-        max-width: 800px;
-        width: 90%;
-        margin: 40px auto;
-        padding: 30px;
-        background: #fff;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        border-radius: 8px;
-    }
-
-    h1, h2, h3 {
-        color: #222;
-    }
-
-    p {
-        margin-bottom: 16px;
-    }
-
-    /* Bullet point alignment */
-    ul {
-        list-style-position: outside;
-        padding-left: 20px;
-    }
-
-    li {
-        margin-bottom: 8px;
-    }
-
-    header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 20px 40px;
-      background: #fff;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    }
-
-    header .logo {
-      font-size: 24px;
-      font-weight: bold;
-    }
-
-    .logo {
-      display: flex;
-      align-items: center;
-      height: 50px; /* Match the header height */
-    }
-    
-    .logo-img {
-      height: 24px; /* Same as font size */
-      width: auto;  /* Maintain aspect ratio */
-    }
-
-    nav a {
-      text-decoration: none;
-      color: #333;
-      margin: 0 15px;
-      transition: color 0.3s;
-    }
-
-    nav a:hover {
-      color: #007BFF;
-    }
-
-    footer {
-        text-align: center;
-        margin-top: 50px;
-        padding: 20px;
-        font-size: 0.9em;
-        color: #666;
-    }
-
-    /* Media Queries for Responsiveness */
-
-    /* For small screens (mobile) */
-    @media (max-width: 600px) {
-      header {
-        flex-direction: column;
-        align-items: flex-start;
-        padding: 20px;
-      }
-
-      nav {
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-        margin-top: 20px;
-      }
-
-      nav a {
-        margin: 10px 0;
-        text-align: center;
-      }
-
-      .logo {
-        font-size: 20px;
-      }
-
-      main {
-        padding: 15px;
-        margin: 20px;
-      }
-
-      h1 {
-        font-size: 1.8rem;
-      }
-
-      h2 {
-        font-size: 1.5rem;
-      }
-
-      h3 {
-        font-size: 1.3rem;
-      }
-    }
-
-    /* For medium screens (tablets) */
-    @media (max-width: 1024px) {
-      h1 {
-        font-size: 2rem;
-      }
-
-      h2 {
-        font-size: 1.75rem;
-      }
-
-      h3 {
-        font-size: 1.5rem;
-      }
-    }
+    /* Add the CSS code provided above here */
   </style>
 </head>
 
 <body>
 
 <header>
-  <!-- Logo and navigation links -->
   <div class="logo">BoomBoom LLC</div>
-  <nav>
-    <a href="/">Home</a>
-    <a href="/">About</a>
-    <a href="/">Contact</a>
-    <a href="/">Privacy Policy</a>
-    <a href="/">Terms of Service</a>
-  </nav>
+  <!-- Hamburger Menu Button -->
+  <div class="hamburger" onclick="toggleMenu()">☰</div>
+
+  <!-- Menu Links (Initially hidden) -->
+  <div class="menu">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/about' | relative_url }}">About</a>
+    <a href="{{ '/contact' | relative_url }}">Contact</a>
+    <a href="{{ '/privacy-policy' | relative_url }}">Privacy Policy</a>
+    <a href="{{ '/terms-of-service' | relative_url }}">Terms of Service</a>
+  </div>
 </header>
 
 <main>
@@ -168,6 +33,13 @@
 <footer>
     <p>&copy; {{ site.time | date: "%Y" }} BoomBoom LLC. All rights reserved.</p>
 </footer>
+
+<script>
+  function toggleMenu() {
+    var menu = document.querySelector('.menu');
+    menu.classList.toggle('active');
+  }
+</script>
 
 </body>
 </html>
