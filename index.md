@@ -16,7 +16,7 @@ title: BoomBoom
     
   </div>
   <div class="right-section">
-    <img src="/assets/images/screen.png" alt="iPhone Screenshot" class="phone" />
+    <img src="https://github.com/user-attachments/assets/e8808165-c868-458e-92aa-fe645b588e40" alt="iPhone Screenshot" class="phone" />
   </div>
 </div>
 
