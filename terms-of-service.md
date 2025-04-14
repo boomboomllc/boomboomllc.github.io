@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /tos/
+permalink: /terms-of-service/
 ---
 
 # Terms of Service
