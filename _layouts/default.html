@@ -5,112 +5,112 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <style>
-    <style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f8f9fa;
-    color: #333;
-    line-height: 1.6;
-  }
-
-  main {
-    max-width: 800px;
-    width: 90%;
-    margin: 40px auto;
-    padding: 30px;
-    background: #fff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-  }
-
-  header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 40px;
-    background: #fff;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  }
-
-  .logo {
-    font-size: 24px;
-    font-weight: bold;
-  }
-
-  .hamburger {
-    display: none; /* Hide by default */
-    cursor: pointer;
-    font-size: 30px;
-  }
-
-  nav a {
-    text-decoration: none;
-    color: #333;
-    margin: 0 15px;
-    transition: color 0.3s;
-  }
-
-  nav a:hover {
-    color: #007BFF;
-  }
-
-  footer {
-    text-align: center;
-    margin-top: 50px;
-    padding: 20px;
-    font-size: 0.9em;
-    color: #666;
-  }
-
-  /* Menu links - Hidden by default */
-  .menu {
-    display: none; /* Hidden initially */
-    width: 100%;
-    text-align: center;
-    padding-top: 10px;
-  }
-
-  .menu a {
-    display: block;
-    margin: 10px 0;
-    text-align: center;
-    padding: 10px;
-    background-color: #f1f1f1;
-    text-decoration: none;
-    color: #333;
-    border-radius: 4px;
-    transition: background-color 0.3s;
-  }
-
-  .menu a:hover {
-    background-color: #007BFF;
-    color: #fff;
-  }
-
-  /* Media Queries for Small Screens */
-  @media (max-width: 768px) {
-    .hamburger {
-      display: block; /* Show the hamburger button on smaller screens */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #333;
+      line-height: 1.6;
     }
 
-    .menu {
-      display: none; /* Initially hide the menu */
+    main {
+      max-width: 800px;
+      width: 90%;
+      margin: 40px auto;
+      padding: 30px;
+      background: #fff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
     }
 
-    .menu.active {
-      display: block; /* Show the menu when it's active */
-    }
-
-    /* Optionally, tweak the layout of the header on small screens */
     header {
-      flex-direction: column;
-      align-items: flex-start;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 40px;
+      background: #fff;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      flex-wrap: wrap; /* Allow elements to wrap if necessary */
     }
-  }
-</style>
 
+    .logo {
+      font-size: 24px;
+      font-weight: bold;
+      flex-grow: 1; /* Allow the logo to shrink and grow */
+      white-space: nowrap; /* Prevent logo from wrapping to the next line */
+    }
+
+    .hamburger {
+      display: none; /* Hide by default */
+      cursor: pointer;
+      font-size: 30px;
+      white-space: nowrap; /* Prevent the hamburger from wrapping */
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #333;
+      margin: 0 15px;
+      transition: color 0.3s;
+    }
+
+    nav a:hover {
+      color: #007BFF;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    /* Menu links - Hidden by default */
+    .menu {
+      display: none; /* Hidden initially */
+      width: 100%;
+      text-align: center;
+      padding-top: 10px;
+    }
+
+    .menu a {
+      display: block;
+      margin: 10px 0;
+      text-align: center;
+      padding: 10px;
+      background-color: #f1f1f1;
+      text-decoration: none;
+      color: #333;
+      border-radius: 4px;
+      transition: background-color 0.3s;
+    }
+
+    .menu a:hover {
+      background-color: #007BFF;
+      color: #fff;
+    }
+
+    /* Media Queries for Small Screens */
+    @media (max-width: 768px) {
+      .hamburger {
+        display: block; /* Show the hamburger button on smaller screens */
+      }
+
+      .menu {
+        display: none; /* Initially hide the menu */
+      }
+
+      .menu.active {
+        display: block; /* Show the menu when it's active */
+      }
+
+      /* Optionally, tweak the layout of the header on small screens */
+      header {
+        flex-direction: row; /* Ensure elements are in a row */
+      }
+    }
   </style>
 </head>
 
@@ -120,15 +120,6 @@
   <div class="logo">BoomBoom LLC</div>
   <!-- Hamburger Menu Button -->
   <div class="hamburger" onclick="toggleMenu()">☰</div>
-
-  <!-- Menu Links (Initially hidden) -->
-  <div class="menu">
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/about' | relative_url }}">About</a>
-    <a href="{{ '/contact' | relative_url }}">Contact</a>
-    <a href="{{ '/privacy-policy' | relative_url }}">Privacy Policy</a>
-    <a href="{{ '/terms-of-service' | relative_url }}">Terms of Service</a>
-  </div>
 </header>
 
 <main>
