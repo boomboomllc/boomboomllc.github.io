@@ -6,13 +6,9 @@ permalink: /about/
 
 # About Us
 
-At BoomBoom, we’re passionate about building intuitive, user-friendly iOS experiences that make everyday life simpler and more enjoyable. 
-Our team is dedicated to creating innovative solutions that prioritize functionality, design, and seamless performance. 
-Whether you’re tackling productivity, entertainment, or staying connected, we strive to deliver apps that fit effortlessly into your routine.
+At BoomBoom, we’re building the next generation of creator-focused platforms—where individuals can express, share, and monetize their passions in a safe and engaging environment. We specialize in developing clean, intuitive iOS apps that empower creators and fans to connect through exclusive content and meaningful interaction. Our approach blends thoughtful design with seamless performance, putting creators in control and delivering a premium experience to users.
 
 
 # Our Mission
 
-We believe technology should empower, not complicate. That’s why we’re committed to developing apps that are not only powerful but also easy to use. 
-With a focus on quality and attention to detail, we aim to create products that exceed expectations and bring value to users worldwide. 
-As we continue to grow, we remain driven by creativity, customer feedback, and the pursuit of excellence.
+Our mission is to empower creators and elevate digital creativity by giving our users the tools to share their work on their terms. We believe platforms should support independence, transparency, and ease of use—without compromising on quality or integrity. At BoomBoom, we’re committed to building a supportive ecosystem where creativity thrives, meaningful content can be shared freely, and users may benefit from their hard work creating content.
