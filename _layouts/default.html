@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <style>
     body {
@@ -73,13 +73,15 @@
       width: 100%;
       text-align: center;
       padding-top: 10px;
+      margin-top: 10px;
+      background-color: #fff;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     }
 
     .menu a {
       display: block;
       margin: 10px 0;
-      text-align: center;
-      padding: 10px;
+      padding: 12px;
       background-color: #f1f1f1;
       text-decoration: none;
       color: #333;
@@ -106,9 +108,31 @@
         display: block; /* Show the menu when it's active */
       }
 
-      /* Optionally, tweak the layout of the header on small screens */
+      /* Make sure header and hamburger are aligned properly */
       header {
-        flex-direction: row; /* Ensure elements are in a row */
+        flex-direction: column; /* Stack logo and hamburger on top of each other on small screens */
+        align-items: flex-start;
+      }
+
+      .logo {
+        font-size: 20px;
+      }
+    }
+
+    /* For larger screens, make the hamburger button disappear */
+    @media (min-width: 769px) {
+      .hamburger {
+        display: none;
+      }
+
+      .menu {
+        display: block; /* Ensure the menu links appear on larger screens */
+        text-align: right;
+      }
+
+      .menu a {
+        display: inline-block;
+        margin-left: 20px;
       }
     }
   </style>
@@ -120,6 +144,15 @@
   <div class="logo">BoomBoom LLC</div>
   <!-- Hamburger Menu Button -->
   <div class="hamburger" onclick="toggleMenu()">☰</div>
+
+  <!-- Menu Links (Initially hidden on mobile) -->
+  <div class="menu">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/about' | relative_url }}">About</a>
+    <a href="{{ '/contact' | relative_url }}">Contact</a>
+    <a href="{{ '/privacy-policy' | relative_url }}">Privacy Policy</a>
+    <a href="{{ '/terms-of-service' | relative_url }}">Terms of Service</a>
+  </div>
 </header>
 
 <main>
