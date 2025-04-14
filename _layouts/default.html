@@ -58,6 +58,7 @@
 
     /* Side menu styles */
     .side-menu {
+      <a href="javascript:void(0)" class="closebtn" onclick="toggleMenu()">&times;</a>
       height: 100%;
       width: 0%;
       position: fixed;
@@ -72,6 +73,15 @@
       z-index: 1000;
     }
 
+    .closebtn {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      font-size: 30px;
+      color: white;
+      text-decoration: none;
+      cursor: pointer;
+    }
 
     .side-menu a {
       padding: 16px 8px;
