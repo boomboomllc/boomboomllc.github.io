@@ -65,12 +65,24 @@
       right: 0; /* Move menu to the right */
       left: auto; /* Remove the left property */
       background-color: #ED6E68;
-      color: white;
+      color: inherit;
       overflow-x: hidden;
       transition: 0.5s;
       padding-top: 60px;
       z-index: 1000;
+      border: none;
+      box-shadow: none;
     }
+
+    .side-menu button:hover,
+    .side-menu button:active,
+    .side-menu button:focus {
+      background: none;
+      color: inherit;
+      outline: none;
+      box-shadow: none;
+    }
+
 
     .closebtn {
       position: absolute;
