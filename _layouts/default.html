@@ -58,7 +58,6 @@
 
     /* Side menu styles */
     .side-menu {
-      <a href="javascript:void(0)" class="closebtn" onclick="toggleMenu()">&times;</a>
       height: 100%;
       width: 0%;
       position: fixed;
@@ -120,6 +119,7 @@
 
 <!-- Side Menu -->
 <div class="side-menu" id="sideMenu">
+  <a href="javascript:void(0)" class="closebtn" onclick="toggleMenu()">&times;</a>
   <a href="{{ '/' | relative_url }}">Home</a>
   <a href="{{ '/about' | relative_url }}">About</a>
   <a href="{{ '/contact' | relative_url }}">Contact</a>
