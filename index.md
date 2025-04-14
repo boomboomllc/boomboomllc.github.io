@@ -13,6 +13,8 @@ title: BoomBoom
     <a href="#">
       <img src="/assets/images/app-store-badge.svg" alt="App Store" class="store-badge" />
     </a>
+    ![Simulator Screenshot - iPhone 15 Pro Max - 2025-04-14 at 13 12 56](https://github.com/user-attachments/assets/e8808165-c868-458e-92aa-fe645b588e40)
+
   </div>
   <div class="right-section">
     <img src="/assets/images/screen.png" alt="iPhone Screenshot" class="phone" />
