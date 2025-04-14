@@ -10,7 +10,7 @@ title: BoomBoom
     </a>
     <h1>BoomBoom</h1>
     <p>
-      A clean, private platform for creators to share exclusive content and grow their audience. Launching soon on the iOS App Store.
+      A place for creators to share exclusive content and grow their audience. Launching soon on the iOS App Store.
     </p>
     
   </div>
