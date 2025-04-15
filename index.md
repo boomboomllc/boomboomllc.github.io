@@ -8,7 +8,7 @@ title: BoomBoom
     <a href="#">
       <img src="https://github.com/user-attachments/assets/01f7c995-f489-4dc5-a47c-ed17c5024fb7" alt="App Store" class="store-badge" />
     </a>
-    <h1>BoomBoom</h1>
+    <h2>BoomBoom</h2>
     <p>
       A place for creators to share exclusive content and grow their audience. Launching soon on the iOS App Store.
     </p>
