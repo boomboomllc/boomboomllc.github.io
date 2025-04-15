@@ -31,6 +31,13 @@
       margin: 0 auto;
     }
 
+    .content-wrapper {
+      width: 90%;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+
     .header-inner {
       width: 90%;
       margin: 0 auto;
@@ -210,14 +217,17 @@
   <a href="{{ '/terms-of-service' | relative_url }}">Terms of Service</a>
   <a href="{{ '/community-guidelines' | relative_url }}">Community Guidelines</a>
 </div>
-
+  
 {% unless page.landing %}
 <main>
   {{ content }}
 </main>
 {% else %}
-{{ content }}
+<div class="content-wrapper">
+  {{ content }}
+</div>
 {% endunless %}
+
 
 <footer>
   <p>&copy; {{ site.time | date: "%Y" }} BoomBoom LLC. All rights reserved.</p>
