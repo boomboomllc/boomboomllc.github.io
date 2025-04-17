@@ -8,7 +8,7 @@
     body {
       font-family: Arial, sans-serif;
       margin: 0;
-      padding: 0px 16px;
+      padding: 0px;
       background-color: #f8f9fa;
       color: #000;
       line-height: 1.6;
@@ -30,6 +30,15 @@
       width: 100%;
       margin: 0 auto;
     }
+
+    .page-content {
+      padding: 0px 20px;
+    }
+    
+    .page-content.landing {
+      padding: 0px 20px;
+    }
+
 
     .content-wrapper {
       width: 90%;
@@ -225,10 +234,14 @@
   
 {% unless page.landing %}
 <main>
-  {{ content }}
+  <div class="content-wrapper">
+    {{ content }}
+  </div>
 </main>
 {% else %}
-  {{ content }}
+  <div class="content-wrapper">
+    {{ content }}
+  </div>
 {% endunless %}
 
 
