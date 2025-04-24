@@ -6,6 +6,12 @@ permalink: /community-guidelines/
 
 # Community Guidelines
 
+BoomBoom's community guidelines are here to ensure a safe, respectful, and positive space for everyone who uses our app. By using the app, you agree to follow these rules and to treat others with respect, honesty, and fairness.
+
+We may update these guidelines from time to time. We encourage you to review them periodically. Continued use of the app after updates means you agree to the latest version.
+
+Violating these guidelines may result in warnings, restrictions, or permanent suspension of your account — at our discretion.
+
 ## 1. Respectful Behavior
 1.1 Treat all users with kindness and respect. Harassment or abusive behavior of any kind will not be tolerated.  
 1.2 Do not post or share content that discriminates against individuals or groups based on race, ethnicity, religion, gender, sexual orientation, disability, or other personal characteristics.  
@@ -73,4 +79,4 @@ permalink: /community-guidelines/
 
 By adhering to these guidelines, you help us maintain a safe, enjoyable, and respectful community. Thank you for being a valued member of BoomBoom!
 
-For any questions or concerns, please email us at ***support@boomboom.email***
+For any questions or concerns, please email us at [support@boomboom.email](mailto: support@boomboom.email)
