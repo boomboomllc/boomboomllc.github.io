@@ -72,7 +72,7 @@ Depending on your location, you may have rights to:
 - **Opt-out of personalized ads** and data sharing for advertising by adjusting your device settings or through third-party opt-out tools.  
 - **Request a copy of your data** or withdraw consent for data collection.  
 
-To exercise your rights, contact us at support@boomboom.email.  
+To exercise your rights, contact us at [support@boomboom.email](mailto: support@boomboom.email).  
 
 ## 7. Changes to This Policy  
 
@@ -81,5 +81,5 @@ We may update this Privacy Policy from time to time. We encourage you to review 
 ## 8. Contact Us  
 
 If you have any questions, please reach out to: 
-support@boomboom.email
+[support@boomboom.email](mailto: support@boomboom.email)
 
