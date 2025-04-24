@@ -5,7 +5,7 @@ permalink: /privacy-policy/
 ---
 
 # Privacy Policy  
-**Effective Date:** 2/1/2025
+**Effective Date:** TBD
 
 BoomBoom ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information when using our iOS app.  
 
