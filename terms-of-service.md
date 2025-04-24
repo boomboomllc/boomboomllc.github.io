@@ -5,18 +5,18 @@ permalink: /terms-of-service/
 
 # Terms of Service
  
-**Effective Date:** 1/15/2025
+**Effective Date:** TBD
 
 These Terms of Service (the "Terms") set forth the terms and conditions governing your access to and use of the platform, mobile application, services, and all related features, content, and functionality (collectively, the "Service") provided by BoomBoom LLC ("BoomBoom," "we," "our," or "us").
 
 By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Services. 
 
----
+NOTICE: To help resolve issues fairly and efficiently, these Terms include a binding arbitration agreement and class action waiver. This helps protect both you and us, especially as a small company. Please review Section 10 carefully.
+
 ## 1. Acceptance of Terms
 
-By using our Services, you acknowledge that you have read and understood these Terms and agree to be legally bound by them. These Terms may be updated from time to time, and we will notify you of any significant changes. Your continued use of the Services after any changes to these Terms will constitute acceptance of those changes. It is your responsibility to review these Terms periodically to ensure ongoing compliance.
+By using our Services, you acknowledge that you have read and understood these Terms and agree to be legally bound by them. These Terms may be updated from time to time. It is your responsibility to review these Terms periodically to stay informed about any changes. Your continued use of the Services after any changes to these Terms will constitute acceptance of those changes.
 
----
 ## 2. Eligibility
 
 Our Services are not designed for anyone under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we gather information indicating that you are below the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. Please read all such terms carefully. By using the Services, you represent, warrant, and agree that:
@@ -31,10 +31,9 @@ At this time, BoomBoom is only available for individual users. Businesses, brand
 
 {% comment %} If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity). {% endcomment %}
 
----
 ## 3. How Our Service Is Funded
 
-Apple mandates the use of in-app purchases, which means a 30% fee goes straight to Apple for all lux purchases. In an effort to minimize further fees and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+Apple mandates the use of in-app purchases, which means a 30% fee goes to Apple for all purchases. In an effort to minimize further fees and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We do not currently include ads within our services. However, in the future we may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
 We may show you ads that we think are relevant to you without telling advertisers who you are. We do not sell your personal data. We may allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We may then show their ad to people who might be interested.
 
@@ -45,18 +44,16 @@ We may also provide advertisers with reports about the performance of their ads 
 {% comment %} You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here. {% endcomment %}
 
 
----
 ## 4. The Privacy Policy
 
 Our service requires collecting and using your information. Your use of the Service is governed by our [Privacy Policy](/privacy-policy/). By using the Service, you agree to our Privacy Policy. 
 
 
----
 ## 5. Your Responsibilities
 
 #### 5.1 Account Registration and Security
 
-To use certain features of the Service, you must create an account. You agree to provide accurate, current, and complete information during the registration process and update your information as necessary.
+To use certain features of the Service, you must create an account. You agree to provide accurate, current, and complete information during registration and any payment processes, and to update your information as necessary.
 
 You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to notify us immediately at ***support@boomboom.email*** of any unauthorized use or security breaches.
 
@@ -75,7 +72,7 @@ Users between the ages of 13 and 17 may:
 
 Users between the ages of 13 and 17 may **not**:
 
-- Link a third-party financial account (such as PayPal) or request payouts in real currency.
+- Link a third-party financial account (such as PayPal) and request payouts in real currency.
 
 #### 5.3 User Content
 
@@ -115,7 +112,7 @@ By using BoomBoom, you grant us permission to display your username, profile pic
 ---
 ## 6. Content Unlocking & Access
 
-Some content on BoomBoom may require payment via our in-app currency to unlock. Prices and availability are determined by the creator. We do not guarantee continued availability of any specific content, and creators may remove or restrict access for potential purchasers at their discretion.
+Some content on BoomBoom may require payment via our in-app currency to unlock. Prices and availability are determined by the creator. We do not guarantee continued availability of any specific content, and creators may remove access for potential purchasers at their discretion.
 
 All purchases of content within the app are final, except in cases where a refund is required by law or at our discretion.
 
@@ -126,13 +123,13 @@ If your account is suspended or terminated for violating our policies, you may l
 
 #### 7.1 In-App Purchases (IAP)
 
-In-app purchases or transactions are processed through the Apple App Store, and their terms apply. All purchases of in-app currency within the app are final, except in cases where a refund is required by law.
+In-app purchases are processed through the Apple App Store, and their terms apply. All purchases of in-app currency within the app are final, except in cases where a refund is required by law.
 
 #### 7.2 Payouts
 
 ##### 7.2.a Payout Methods
 
-Payouts for our in-app currency within the app will be processed exclusively through supported payment platforms, which currently include PayPal. In the future, we may introduce additional payout platforms such as Venmo or other payment services. The availability of payout platforms may vary by region and other eligibility factors.
+Payouts for our in-app currency within the app will be processed exclusively through supported payment platforms, which currently includes PayPal. In the future, we may introduce additional payout platforms such as Venmo or other payment services. The availability of payout platforms may vary by region and other eligibility factors.
 
 Users **18 years or older** may link a **verified PayPal account** to receive payouts. Users under 18 are prohibited from linking a PayPal account or receiving payouts.
 
@@ -150,28 +147,58 @@ By using PayPal for payouts, you acknowledge that PayPal is a third-party servic
 
 ##### 7.2.b Payout Timeline
 
-Payouts will be initiated within 30 calendar days of the completion of a qualifying exchange. Processing times may vary depending on the payment platform’s policies and external factors, including but not limited to banking holidays, compliance reviews, or technical issues. Users acknowledge that the company is not liable for delays caused by the payment platform or external systems.
-
+We aim to initiate payouts within 30 calendar days, however actual delivery may take longer depending on third-party payment platforms. We do not guarantee a specific timeframe for payout completion and are not responsible for delays once the payout has been initiated.
+<!--
+Payouts will be initiated within 30 calendar days of the completion of a qualifying exchange request within our app. Processing times may vary depending on the payment platform’s policies and external factors, including but not limited to banking holidays, compliance reviews, or technical issues. Users acknowledge that the company is not liable for delays caused by the payment platform or external systems.
+-->
 ##### 7.2.c Fees and Deductions
 
-All payouts are subject to any applicable transaction fees or service charges imposed by the payment platform. Such fees will be automatically deducted from the payout amount unless otherwise specified. Users are responsible for reviewing the payment platform’s fee structure prior to use.
+We aim to ensure that users receive the full payout amount shown in the app, without deductions for payment processing fees. Processing fees apply, but we cover them on your behalf.
 
-##### 7.2.d Future Platform Updates
 
-We reserve the right to add, remove, or modify supported payout platforms at our discretion. Users will be notified of any changes via in-app notifications or email updates, as applicable.
+##### 7.2.d Failed or Misrouted Payments
 
----
+We are not responsible for payouts sent to incorrect or invalid accounts due to errors in the information provided by the user. Users acknowledge and accept any potential loss resulting from such errors.
+
+
+##### 7.2.e Disputes
+
+Users must notify the company within 30 days of any dispute or issue regarding a payout. Failure to notify within this timeframe will result in forfeiture of the right to contest the payout.
+
+
+##### 7.2.f Suspension of Payouts
+
+We reserve the right to suspend or withhold payouts if fraudulent activity, non-compliance, or misuse of the app or payout platforms is suspected.
+
+##### 7.2.g Future Platform Updates
+
+We reserve the right to add, remove, or modify supported payout platforms at our discretion.
+
 ## 8. Modifications to the Service
 
-We may modify or discontinue the Service or any part of it without notice or liability to you. Significant changes to the Service may be communicated through updates to these Terms or notifications within the app, at our sole discretion.
+We may modify or discontinue the Service or any part of it without notice or liability to you. 
 
----
 ## 9. Termination
 
-We reserve the right to suspend or terminate your account if you violate these Terms. Upon termination, your right to use the Service ceases immediately, and any pending payouts, liscenses, and remaining account balance may be forfeited.
+We reserve the right to suspend, terminate, or restrict your account at our sole discretion, for any reason, including but not limited to violations of these Terms, disruptive behavior, or actions that we believe may harm the integrity of our Service, other users, or the community. This includes, but is not limited to, situations where we believe an account is being used for malicious, abusive, or fraudulent activity.
 
----
-## 10. Contact Us
+We may also suspend or terminate your account if we believe your past behavior or actions, whether related to the Service or otherwise, could compromise the safety, security, or integrity of the Service or other users.
+
+Upon termination, your right to use the Service ceases immediately, and any pending payouts, licenses, and remaining account balances may be forfeited. We are not obligated to provide a reason for termination, but we may, at our discretion, inform you of the action taken.
+
+
+## 10. Arbitration Agreement & Class Action Waiver
+
+ARBITRATION NOTICE: By using the Service, you agree that any dispute or claim between you and us will be resolved through binding, individual arbitration rather than in court. You waive your right to participate in a class action lawsuit or class-wide arbitration.
+
+This agreement applies to all claims related to your use of the Service or these Terms, regardless of legal theory.
+
+You may opt out of this arbitration agreement by sending written notice within 30 days of first using the Service to [support@boomboom.email](mailto:support@boomboom.email). Your opt-out notice must include your full name and a clear statement that you wish to opt out of arbitration.
+
+This section does not apply to claims that qualify for small claims court or where applicable law prohibits arbitration of certain disputes.
+
+
+## 11. Contact Us
 
 If you have any questions about these Terms or need support, please contact us at:
 
@@ -180,57 +207,13 @@ If you have any questions about these Terms or need support, please contact us a
 
 ---
 
-**Last updated:** 1/23/2025
+**Last updated:** 4/23/2025
 
 
 
 
----------
-1. Payouts and Payment Terms
 
- 
-
-2. User Eligibility
-
-2.1 Age Requirement
-Users must be at least 18 years of age to create an account, participate in exchanges, or receive payouts through the app. By using the app, users affirm that they meet this age requirement.
-
-2.2 Payment Platform Compliance
-Users are responsible for ensuring that they meet all eligibility and compliance requirements of the payout platform(s) they choose to use. These requirements may include, but are not limited to:
-
-Verifying their identity or account.
-Meeting age restrictions or regional availability guidelines.
-Providing accurate and valid payment details.
-Failure to comply with the payment platform's requirements may result in delayed or failed payouts. The company assumes no liability for payouts that are delayed or unprocessed due to user non-compliance.
-
-3. Accuracy of Account Information
-
-3.1 Account Details
-Users are solely responsible for providing accurate and up-to-date account information for their selected payout platform(s). This includes, but is not limited to, the correct email address, username, or any other information required by the platform.
-
-3.2 Failed or Misrouted Payments
-The company is not responsible for payouts sent to incorrect or invalid accounts due to errors in the information provided by the user. Users acknowledge and accept any potential loss resulting from such errors.
-
-3.3 Changes to Account Information
-Users must promptly update their account information in the app if their payout platform details change. The company will not be held liable for delays caused by outdated or incorrect account information.
-
-4. Restrictions and Limitations
-
-4.1 Prohibited Use
-The app and its payout functionality may not be used for illegal activities, fraud, or any purposes that violate applicable laws or regulations, including but not limited to those set by the payout platform(s).
-
-4.2 Payout Disputes
-Users must notify the company within 30 days of any dispute or issue regarding a payout. Failure to notify within this timeframe will result in forfeiture of the right to contest the payout.
-
-4.3 Suspension of Payouts
-The company reserves the right to suspend or withhold payouts if fraudulent activity, non-compliance, or misuse of the app or payout platforms is suspected.
-
-5. Changes to Terms
-
-We reserve the right to modify these terms at any time. Users will be notified of significant changes via in-app announcements or email. Continued use of the app after such changes constitutes acceptance of the updated terms.
---------------
-
-
+<!--
 
 Terms of Use
 Welcome to Instagram!
@@ -346,3 +329,7 @@ We always appreciate feedback or other suggestions, but may use them without any
 
 8. Updating These Terms
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account here and no longer accessing or using any part of the Instagram Service.
+
+
+
+-->
