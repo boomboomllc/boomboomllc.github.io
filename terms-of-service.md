@@ -83,6 +83,8 @@ Users between the ages of 13 and 17 may **not**:
 
 You retain ownership of all content you upload, post, or share on the Service ("User Content"). By uploading, submitting, or otherwise transmitting any content through the BoomBoom app, you grant us a worldwide royalty-free, transferable, sub-licensable, perpetual license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content license to use, display, and distribute your content solely to operate and improve the Service. 
 
+You are solely responsible for the User Content you submit and the consequences of sharing or publishing it. By submitting content, you represent that you have all necessary rights, licenses, and permissions to grant the above license.
+
 You are prohibited from uploading content that is illegal, harmful, goes against the Community Guidelines, or violates third-party rights. We reserve the right to remove content that breaches these Terms.
 
 #### 6.4 User Conduct
@@ -198,9 +200,12 @@ ARBITRATION NOTICE: By using the Service, you agree that any dispute or claim be
 
 This agreement applies to all claims related to your use of the Service or these Terms, regardless of legal theory.
 
-You may opt out of this arbitration agreement by sending written notice within 30 days of first using the Service to [support@boomboom.email](mailto:support@boomboom.email). Your opt-out notice must include your full name and a clear statement that you wish to opt out of arbitration.
+You may opt out of this arbitration agreement by sending written notice within 30 days of first using the Service to support@boomboom.email. Your opt-out notice must include your full name and a clear statement that you wish to opt out of arbitration.
 
 This section does not apply to claims that qualify for small claims court or where applicable law prohibits arbitration of certain disputes.
+
+Governing Law and Venue:
+These Terms and any dispute arising from them or the use of the Service will be governed by the laws of the State of California, without regard to conflict of law principles. Unless otherwise required by law or covered under arbitration, any legal action shall be brought exclusively in the state or federal courts located in Orange County, California, and you consent to the jurisdiction and venue of those courts.
 
 ## 12. Copyright Infringement & DMCA Policy
 
