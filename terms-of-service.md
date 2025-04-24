@@ -11,13 +11,19 @@ These Terms of Service (the "Terms") set forth the terms and conditions governin
 
 By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Services. 
 
-NOTICE: To help resolve issues fairly and efficiently, these Terms include a binding arbitration agreement and class action waiver. This helps protect both you and us, especially as a small company. Please review Section 10 carefully.
+NOTICE: To help resolve issues fairly and efficiently, these Terms include a binding arbitration agreement and class action waiver. This helps protect both you and us, especially as a small company. Please review Section 11 carefully.
 
 ## 1. Acceptance of Terms
 
 By using our Services, you acknowledge that you have read and understood these Terms and agree to be legally bound by them. These Terms may be updated from time to time. It is your responsibility to review these Terms periodically to stay informed about any changes. Your continued use of the Services after any changes to these Terms will constitute acceptance of those changes.
 
-## 2. Eligibility
+## 2. Intellectual Property and Trademarks
+
+All content, features, and functionality on the BoomBoom app and website—including but not limited to text, graphics, logos, icons, images, audio and video clips, data compilations, and software—is the property of BoomBoom, its affiliates, or its licensors, and is protected under United States copyright, trademark, patent, and other intellectual property laws.
+
+BoomBoom, the BoomBoom logo, and all related names, slogans, and designs are trademarks or service marks of BoomBoom, whether registered or under common law. You may not use these marks without our prior written permission. Other product and company names mentioned on the platform may be trademarks of their respective owners.
+
+## 3. Eligibility
 
 Our Services are not designed for anyone under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we gather information indicating that you are below the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. Please read all such terms carefully. By using the Services, you represent, warrant, and agree that:
 
@@ -31,7 +37,7 @@ At this time, BoomBoom is only available for individual users. Businesses, brand
 
 {% comment %} If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity). {% endcomment %}
 
-## 3. How Our Service Is Funded
+## 4. How Our Service Is Funded
 
 Apple mandates the use of in-app purchases, which means a 30% fee goes to Apple for all purchases. In an effort to minimize further fees and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We do not currently include ads within our services. However, in the future we may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
@@ -44,20 +50,19 @@ We may also provide advertisers with reports about the performance of their ads 
 {% comment %} You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here. {% endcomment %}
 
 
-## 4. The Privacy Policy
+## 5. The Privacy Policy
 
 Our service requires collecting and using your information. Your use of the Service is governed by our [Privacy Policy](/privacy-policy/). By using the Service, you agree to our Privacy Policy. 
 
+## 6. Your Responsibilities
 
-## 5. Your Responsibilities
-
-#### 5.1 Account Registration and Security
+#### 6.1 Account Registration and Security
 
 To use certain features of the Service, you must create an account. You agree to provide accurate, current, and complete information during registration and any payment processes, and to update your information as necessary.
 
 You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to notify us immediately at ***support@boomboom.email*** of any unauthorized use or security breaches.
 
-#### 5.2 Age-Based Restrictions
+#### 6.2 Age-Based Restrictions
 
 Users must be 13 or older to access our services or create an account. Users must be 18 or older to access the full-features of our Services. 
 
@@ -74,13 +79,13 @@ Users between the ages of 13 and 17 may **not**:
 
 - Link a third-party financial account (such as PayPal) and request payouts in real currency.
 
-#### 5.3 User Content
+#### 6.3 User Content
 
-You retain ownership of all content you upload, post, or share on the Service ("User Content"). By submitting User Content, you grant us a worldwide royalty-free, transferable, sub-licensable, perpetual license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content license to use, display, and distribute your content solely to operate and improve the Service. 
+You retain ownership of all content you upload, post, or share on the Service ("User Content"). By uploading, submitting, or otherwise transmitting any content through the BoomBoom app, you grant us a worldwide royalty-free, transferable, sub-licensable, perpetual license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content license to use, display, and distribute your content solely to operate and improve the Service. 
 
 You are prohibited from uploading content that is illegal, harmful, goes against the Community Guidelines, or violates third-party rights. We reserve the right to remove content that breaches these Terms.
 
-#### 5.4 User Conduct
+#### 6.4 User Conduct
 
 You are required to use our Services in accordance with the following terms:
 
@@ -105,12 +110,12 @@ You are required to use our Services in accordance with the following terms:
 - You must not attempt to bypass, disable, or otherwise interfere with any technological measures designed to control or restrict access to the Service or its data.
 
 
-#### 5.5 Permissions you grant us
+#### 6.5 Permissions you grant us
 
 By using BoomBoom, you grant us permission to display your username, profile picture, and other public details (such as posts or ratings) alongside advertisements, promotions, or sponsored content that you engage with. This may include showing that you unlocked or interacted with a sponsored post from a business that has paid for advertising on BoomBoom. You acknowledge that you will not receive compensation for these displays.
 
 
-## 6. Content Unlocking & Access
+## 7. Content Unlocking & Access
 
 Some content on BoomBoom may require payment via our in-app currency to unlock. Prices and availability are determined by the creator. We do not guarantee continued availability of any specific content, and creators may remove access for potential purchasers at their discretion.
 
@@ -119,15 +124,15 @@ All purchases of content within the app are final, except in cases where a refun
 If your account is suspended or terminated for violating our policies, you may lose access to previously unlocked content without a refund. 
 
 
-## 7. Payments and Financial Features
+## 8. Payments and Financial Features
 
-#### 7.1 In-App Purchases (IAP)
+#### 8.1 In-App Purchases (IAP)
 
 In-app purchases are processed through the Apple App Store, and their terms apply. All purchases of in-app currency within the app are final, except in cases where a refund is required by law.
 
-#### 7.2 Payouts
+#### 8.2 Payouts
 
-##### 7.2.a Payout Methods
+##### 8.2.a Payout Methods
 
 Payouts for our in-app currency within the app will be processed exclusively through supported payment platforms, which currently includes PayPal. In the future, we may introduce additional payout platforms such as Venmo or other payment services. The availability of payout platforms may vary by region and other eligibility factors.
 
@@ -145,40 +150,40 @@ Additionally, you agree that:
 
 By using PayPal for payouts, you acknowledge that PayPal is a third-party service, and **BoomBoom is not liable** for any issues, disputes, or financial losses related to your PayPal account or transactions. 
 
-##### 7.2.b Payout Timeline
+##### 8.2.b Payout Timeline
 
 We aim to initiate payouts within 30 calendar days, however actual delivery may take longer depending on third-party payment platforms. We do not guarantee a specific timeframe for payout completion and are not responsible for delays once the payout has been initiated.
 <!--
 Payouts will be initiated within 30 calendar days of the completion of a qualifying exchange request within our app. Processing times may vary depending on the payment platform’s policies and external factors, including but not limited to banking holidays, compliance reviews, or technical issues. Users acknowledge that the company is not liable for delays caused by the payment platform or external systems.
 -->
-##### 7.2.c Fees and Deductions
+##### 8.2.c Fees and Deductions
 
 We aim to ensure that users receive the full payout amount shown in the app, without deductions for payment processing fees. Processing fees apply, but we cover them on your behalf.
 
 
-##### 7.2.d Failed or Misrouted Payments
+##### 8.2.d Failed or Misrouted Payments
 
 We are not responsible for payouts sent to incorrect or invalid accounts due to errors in the information provided by the user. Users acknowledge and accept any potential loss resulting from such errors.
 
 
-##### 7.2.e Disputes
+##### 8.2.e Disputes
 
 Users must notify the company within 30 days of any dispute or issue regarding a payout. Failure to notify within this timeframe will result in forfeiture of the right to contest the payout.
 
 
-##### 7.2.f Suspension of Payouts
+##### 8.2.f Suspension of Payouts
 
 We reserve the right to suspend or withhold payouts if fraudulent activity, non-compliance, or misuse of the app or payout platforms is suspected.
 
-##### 7.2.g Future Platform Updates
+##### 8.2.g Future Platform Updates
 
 We reserve the right to add, remove, or modify supported payout platforms at our discretion.
 
-## 8. Modifications to the Service
+## 9. Modifications to the Service
 
 We may modify or discontinue the Service or any part of it without notice or liability to you. 
 
-## 9. Termination
+## 10. Termination
 
 We reserve the right to suspend, terminate, or restrict your account at our sole discretion, for any reason, including but not limited to violations of these Terms, disruptive behavior, or actions that we believe may harm the integrity of our Service, other users, or the community. This includes, but is not limited to, situations where we believe an account is being used for malicious, abusive, or fraudulent activity.
 
@@ -187,7 +192,7 @@ We may also suspend or terminate your account if we believe your past behavior o
 Upon termination, your right to use the Service ceases immediately, and any pending payouts, licenses, and remaining account balances may be forfeited. We are not obligated to provide a reason for termination, but we may, at our discretion, inform you of the action taken.
 
 
-## 10. Arbitration Agreement & Class Action Waiver
+## 11. Arbitration Agreement & Class Action Waiver
 
 ARBITRATION NOTICE: By using the Service, you agree that any dispute or claim between you and us will be resolved through binding, individual arbitration rather than in court. You waive your right to participate in a class action lawsuit or class-wide arbitration.
 
@@ -197,8 +202,22 @@ You may opt out of this arbitration agreement by sending written notice within 3
 
 This section does not apply to claims that qualify for small claims court or where applicable law prohibits arbitration of certain disputes.
 
+## 12. Copyright Infringement & DMCA Policy
 
-## 11. Contact Us
+If you believe that any content on BoomBoom infringes your copyright, you may file a notification under the Digital Millennium Copyright Act (DMCA) by providing our Copyright Agent with the following information:
+- Your physical or electronic signature;
+- Identification of the copyrighted work you claim has been infringed;
+- Identification of the material that is claimed to be infringing and where it is located on our service;
+- Your contact information, including address, telephone number, and email;
+- A statement that you have a good faith belief that the use is not authorized by the copyright owner, its agent, or the law;
+- A statement, under penalty of perjury, that the information in your notice is accurate and that you are authorized to act on behalf of the copyright owner.
+
+Submit DMCA notices to:
+Copyright Agent
+BoomBoom Legal Department
+[legal@boomboom.email](mailto: legal@boomboom.email)
+
+## 13. Contact Us
 
 If you have any questions about these Terms or need support, please contact us at:
 
