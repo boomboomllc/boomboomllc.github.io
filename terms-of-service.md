@@ -39,11 +39,13 @@ At this time, BoomBoom is only available for individual users. Businesses, brand
 
 ## 4. How Our Service Is Funded
 
-Apple mandates the use of in-app purchases, which means a 30% fee goes to Apple for all purchases. In an effort to minimize further fees and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We do not currently include ads within our services. However, in the future we may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+When users purchase in-app currency, a portion of the payment goes to Apple (typically 30%). The remainder is received by BoomBoom. From that, BoomBoom retains a portion to support the operation of the platform and pays the rest to creators. In an effort to minimize further fees, to provide creators with the maximum possible profit margins, and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We do not currently include ads within our services. However, in the future we may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
 We may show you ads that we think are relevant to you without telling advertisers who you are. We do not sell your personal data. We may allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We may then show their ad to people who might be interested.
 
 We may also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off BoomBoom. For example, we may provide general demographic and interest information to advertisers to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are). Learn more about how BoomBoom ads work here.
+
+BoomBoom also earns revenue from a portion of the in-app purchases made by users. After Apple’s transaction fee is applied, BoomBoom retains a portion of the remaining amount to support the platform. The rest may be distributed according to our creator or participant payout terms.
 
 {% comment %} This website uses third-party advertising partners that may use cookies to serve ads based on your non-personal browsing behavior. For more information on how these partners use cookies, please refer to their privacy policies. {% endcomment %}
 
