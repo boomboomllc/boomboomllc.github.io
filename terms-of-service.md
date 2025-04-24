@@ -109,7 +109,7 @@ You are required to use our Services in accordance with the following terms:
 
 By using BoomBoom, you grant us permission to display your username, profile picture, and other public details (such as posts or ratings) alongside advertisements, promotions, or sponsored content that you engage with. This may include showing that you unlocked or interacted with a sponsored post from a business that has paid for advertising on BoomBoom. You acknowledge that you will not receive compensation for these displays.
 
----
+
 ## 6. Content Unlocking & Access
 
 Some content on BoomBoom may require payment via our in-app currency to unlock. Prices and availability are determined by the creator. We do not guarantee continued availability of any specific content, and creators may remove access for potential purchasers at their discretion.
@@ -118,7 +118,7 @@ All purchases of content within the app are final, except in cases where a refun
 
 If your account is suspended or terminated for violating our policies, you may lose access to previously unlocked content without a refund. 
 
----
+
 ## 7. Payments and Financial Features
 
 #### 7.1 In-App Purchases (IAP)
