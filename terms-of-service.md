@@ -39,7 +39,13 @@ At this time, BoomBoom is only available for individual users. Businesses, brand
 
 ## 4. How Our Service Is Funded
 
-When users purchase in-app currency, a portion of the payment goes to Apple (typically 30%). The remainder is received by BoomBoom. From that, BoomBoom retains a portion to support the operation of the platform and pays the rest to creators. In an effort to minimize further fees, to provide creators with the maximum possible profit margins, and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We do not currently include ads within our services. However, in the future we may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+When users purchase in-app currency, a portion of the payment goes to Apple (typically 30%). The remainder is received by BoomBoom. From that, BoomBoom retains a portion to support the operation of the platform and pays the rest to creators. 
+
+The amount BoomBoom retains is not a fixed percentage and may vary depending on which Lux bundles users purchase and how Lux are distributed. For example, users may receive more Lux per dollar when purchasing larger bundles, which can impact the effective percentage BoomBoom retains after covering transaction costs and creator payouts.
+
+BoomBoom sets a fixed exchange rate for redemptions (e.g., 1000 Lux = $1), and calculates creator earnings based on that rate. Our goal is to offer a sustainable and creator-friendly platform while keeping the business operational.
+
+In an effort to minimize further fees, to provide creators with the maximum possible profit margins, and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We do not currently include ads within our services. However, in the future we may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
 We may show you ads that we think are relevant to you without telling advertisers who you are. We do not sell your personal data. We may allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We may then show their ad to people who might be interested.
 
