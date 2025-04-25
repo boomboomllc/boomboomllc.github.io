@@ -11,7 +11,7 @@ These Terms of Service (the "Terms") set forth the terms and conditions governin
 
 By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any additional guidelines, rules, or policies applicable to specific features or services (collectively, the "Agreements"). If you do not agree to these Terms or any part of the Agreements, you are prohibited from accessing or using the Services. 
 
-NOTICE: To help resolve issues fairly and efficiently, these Terms include a binding arbitration agreement and class action waiver. This helps protect both you and us, especially as a small company. Please review Section 11 carefully.
+NOTICE: To help resolve issues fairly and efficiently, these Terms include a binding arbitration agreement and class action waiver. This helps protect both you and us, especially as a small company. Please review Section 13 carefully.
 
 ## 1. Acceptance of Terms
 
@@ -45,7 +45,7 @@ The amount BoomBoom retains is not a fixed percentage and may vary depending on 
 
 BoomBoom sets a fixed exchange rate for redemptions (e.g., 1000 Lux = $1), and calculates creator earnings based on that rate. Our goal is to offer a sustainable and creator-friendly platform while keeping the business operational.
 
-In an effort to minimize further fees, to provide creators with the maximum possible profit margins, and to keep BoomBoom operational, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We do not currently include ads within our services. However, in the future we may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+In an effort to minimize further fees, to provide creators with the maximum possible profit margins, and to keep BoomBoom operational, by using the Services covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off of BoomBoom. We do not currently include ads within our services. However, in the future we may use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
 We may show you ads that we think are relevant to you without telling advertisers who you are. We do not sell your personal data. We may allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We may then show their ad to people who might be interested.
 
@@ -189,11 +189,7 @@ We reserve the right to suspend or withhold payouts if fraudulent activity, non-
 
 We reserve the right to add, remove, or modify supported payout platforms at our discretion.
 
-## 9. Modifications to the Service
-
-We may modify or discontinue the Service or any part of it without notice or liability to you. 
-
-## 10. Termination
+## 9. Termination
 
 We reserve the right to suspend, terminate, or restrict your account at our sole discretion, for any reason, including but not limited to violations of these Terms, disruptive behavior, or actions that we believe may harm the integrity of our Service, other users, or the community. This includes, but is not limited to, situations where we believe an account is being used for malicious, abusive, or fraudulent activity.
 
@@ -201,8 +197,23 @@ We may also suspend or terminate your account if we believe your past behavior o
 
 Upon termination, your right to use the Service ceases immediately, and any pending payouts, licenses, and remaining account balances may be forfeited. We are not obligated to provide a reason for termination, but we may, at our discretion, inform you of the action taken.
 
+## 10. Modifications to the Service
 
-## 11. Arbitration Agreement & Class Action Waiver
+We may modify or discontinue the Service or any part of it without notice or liability to you. 
+
+
+## 11. Limitation of Liability
+
+To the maximum extent permitted by applicable law, BoomBoom and its affiliates, officers, employees, and licensors shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:  
+(a) your use or inability to use the Service;  
+(b) any unauthorized access to or use of our servers and/or any personal information stored therein;  
+(c) any interruption or cessation of transmission to or from the Service.
+
+## 12. Indemnification
+
+You agree to defend, indemnify, and hold harmless BoomBoom, its affiliates, and their respective directors, officers, employees, and agents from and against any claims, liabilities, damages, losses, and expenses, including reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the Service, or your violation of these Terms.
+
+## 13. Arbitration Agreement & Class Action Waiver
 
 ARBITRATION NOTICE: By using the Service, you agree that any dispute or claim between you and us will be resolved through binding, individual arbitration rather than in court. You waive your right to participate in a class action lawsuit or class-wide arbitration.
 
@@ -212,10 +223,10 @@ You may opt out of this arbitration agreement by sending written notice within 3
 
 This section does not apply to claims that qualify for small claims court or where applicable law prohibits arbitration of certain disputes.
 
-Governing Law and Venue:
+## 14. Governing Law and Venue
 These Terms and any dispute arising from them or the use of the Service will be governed by the laws of the State of California, without regard to conflict of law principles. Unless otherwise required by law or covered under arbitration, any legal action shall be brought exclusively in the state or federal courts located in Orange County, California, and you consent to the jurisdiction and venue of those courts.
 
-## 12. Copyright Infringement & DMCA Policy
+## 15. Copyright Infringement & DMCA Policy
 
 If you believe that any content on BoomBoom infringes your copyright, you may file a notification under the Digital Millennium Copyright Act (DMCA) by providing our Copyright Agent with the following information:
 - Your physical or electronic signature;
@@ -230,7 +241,7 @@ Copyright Agent
 BoomBoom Legal Department
 [legal@boomboom.email](mailto: legal@boomboom.email)
 
-## 13. Contact Us
+## 16. Contact Us
 
 If you have any questions about these Terms or need support, please contact us at:
 
