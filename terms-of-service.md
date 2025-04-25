@@ -51,8 +51,6 @@ We may show you ads that we think are relevant to you without telling advertiser
 
 We may also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off BoomBoom. For example, we may provide general demographic and interest information to advertisers to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are). Learn more about how BoomBoom ads work here.
 
-BoomBoom also earns revenue from a portion of the in-app purchases made by users. After Apple’s transaction fee is applied, BoomBoom retains a portion of the remaining amount to support the platform. The rest may be distributed according to our creator or participant payout terms.
-
 {% comment %} This website uses third-party advertising partners that may use cookies to serve ads based on your non-personal browsing behavior. For more information on how these partners use cookies, please refer to their privacy policies. {% endcomment %}
 
 {% comment %} You may see branded content on BoomBoom posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here. {% endcomment %}
