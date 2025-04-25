@@ -10,4 +10,4 @@ We are committed to ensuring our iOS app and website are accessible to users wit
 
 We continually assess our app to improve accessibility and usability, including compatibility with screen readers (such as VoiceOver), dynamic text sizing, color contrast, and alternative input methods.
 
-If you experience any accessibility issues, please contact us at (support@boomboom.email)[mailto: support@boomboom.email].
+If you experience any accessibility issues, please contact us at [support@boomboom.email](mailto: support@boomboom.email).
