@@ -10,7 +10,7 @@ BoomBoom's community guidelines are here to ensure a safe, respectful, and posit
 
 We may update these guidelines from time to time. We encourage you to review them periodically. Continued use of the app after updates means you agree to the latest version.
 
-Violating these guidelines may result in warnings, restrictions, or permanent suspension of your account — at our discretion.
+Violating these guidelines may result in warnings, restrictions, or permanent suspension of your account.
 
 ## 1. Respectful Behavior
 1.1 Treat all users with kindness and respect. Harassment or abusive behavior of any kind will not be tolerated.  
