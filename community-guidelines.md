@@ -21,6 +21,7 @@ Violating these guidelines may result in warnings, restrictions, or permanent su
 2.2 **Inappropriate Content**: Pornographic, sexually explicit, or excessively graphic content is strictly prohibited.  
 2.3 **Harmful Content**: Do not upload or promote self-harm, suicide, or content that endangers others.  
 2.4 **Copyrighted Content**: Only upload content you own or have the right to distribute. Posting copyrighted material without permission is strictly prohibited.  
+2.5 **Sharing Personal Information**: Do not upload or share private or confidential information about others without their consent. This includes, but is not limited to, addresses, phone numbers, email addresses, financial information, and other personal identifiers.
 
 ## 3. Content Quality and Authenticity
 3.1 Ensure that all uploaded content is accurate, authentic, and meaningful. Misleading, deceptive, or fraudulent content is not allowed.  
@@ -30,9 +31,8 @@ Violating these guidelines may result in warnings, restrictions, or permanent su
 4.1 Content uploaded for sale in the marketplace must meet the highest standards of quality and compliance with these guidelines.  
 4.2 Users are prohibited from selling stolen or unauthorized content. Violations may result in forfeiture of in-app currency and account termination.  
 
-## 5. Interactions and Messaging
-5.1 Be respectful in your interactions with others. Do not send unsolicited or inappropriate messages, including spam, harassment, or explicit material.  
-5.2 Do not impersonate other users, celebrities, or public figures. Misrepresentation is strictly prohibited.  
+## 5. Represent Yourself Truthfully
+5.1 Do not impersonate any individual, group, or entity, including other users, celebrities, public figures, or organizations. Misrepresentation, whether intentional or accidental, is strictly prohibited. Users found to be violating this rule may face account suspension or termination.  
 
 ## 6. Protect Personal Information
 6.1 Do not share personal or sensitive information (e.g., phone numbers, addresses, or financial details) about yourself or others on the platform.  
