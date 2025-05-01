@@ -43,7 +43,7 @@ title: Verifying Email...
    </head>
    <body>
   <p>Email Verified.</p>
-  <p>Please return to the app to save and continue.</p>
+  <p>Please return to the app to continue.</p>
 </body>
 </html>
 
