@@ -45,9 +45,3 @@ title: Verifying Email...
   <div id="status-message"><p>Loading...</p></div>
 </body>
 </html>
-
-
-
-
-
-
