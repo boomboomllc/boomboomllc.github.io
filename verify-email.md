@@ -3,15 +3,23 @@ layout: default
 title: Verifying Email...
 ---
 
- <html>
-   <head>
-     <meta charset="UTF-8">
-     <title>Verifying Email...</title>
-     <script type="module">
-       import { initializeApp } from "https://www.gstatic.com/firebasejs/10.10.0/firebase-app.js";
-       import { getAuth, applyActionCode } from "https://www.gstatic.com/firebasejs/10.10.0/firebase-auth.js";
  
-       const firebaseConfig = {
+  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Verification</title>
+</head>
+<body>
+    <h1>Email Verification</h1>
+    <p id="status">Verifying your email...</p>
+
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth.js"></script>
+
+    <script>
+        // Initialize Firebase
+        const firebaseConfig = {
          apiKey: "AIzaSyA-H5mHX6UWyzjsJAnNl2rH2SQIzlRUnWk",
          authDomain: "boomboom-9621f.firebaseapp.com",
          projectId: "boomboom-9621f",
@@ -19,8 +27,8 @@ title: Verifying Email...
          messagingSenderId: "396477438586",
          appId: "1:396477438586:web:4d7e266b0d88fedaf839c3"
      };
- 
-       firebase.initializeApp(firebaseConfig);
+     
+        firebase.initializeApp(firebaseConfig);
 
         // Get the verification code from the URL
         const urlParams = new URLSearchParams(window.location.search);
@@ -54,5 +62,4 @@ title: Verifying Email...
     </script>
 </body>
 </html>
-
 
