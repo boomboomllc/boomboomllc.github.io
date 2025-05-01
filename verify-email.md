@@ -3,8 +3,8 @@ layout: default
 title: Verifying Email...
 ---
 
- 
-  
+ <!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,7 +18,7 @@ title: Verifying Email...
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth.js"></script>
 
     <script>
-        // Initialize Firebase
+        // Initialize Firebase with your config
         const firebaseConfig = {
          apiKey: "AIzaSyA-H5mHX6UWyzjsJAnNl2rH2SQIzlRUnWk",
          authDomain: "boomboom-9621f.firebaseapp.com",
@@ -27,12 +27,13 @@ title: Verifying Email...
          messagingSenderId: "396477438586",
          appId: "1:396477438586:web:4d7e266b0d88fedaf839c3"
      };
-     
+
+        // Initialize Firebase
         firebase.initializeApp(firebaseConfig);
 
         // Get the verification code from the URL
         const urlParams = new URLSearchParams(window.location.search);
-        const actionCode = urlParams.get('oobCode');
+        const actionCode = urlParams.get('oobCode'); // This is the verification code
 
         if (!actionCode) {
             document.getElementById('status').innerText = "Verification code is missing.";
@@ -62,4 +63,5 @@ title: Verifying Email...
     </script>
 </body>
 </html>
+
 
