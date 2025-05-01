@@ -3,21 +3,15 @@ layout: default
 title: Verifying Email...
 ---
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Email Verification</title>
-</head>
-<body>
-    <h1>Email Verification</h1>
-    <p id="status">Verifying your email...</p>
-
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth.js"></script>
-
-    <script>
-        // Initialize Firebase with your Firebase config
-        const firebaseConfig = {
+ <html>
+   <head>
+     <meta charset="UTF-8">
+     <title>Verifying Email...</title>
+     <script type="module">
+       import { initializeApp } from "https://www.gstatic.com/firebasejs/10.10.0/firebase-app.js";
+       import { getAuth, applyActionCode } from "https://www.gstatic.com/firebasejs/10.10.0/firebase-auth.js";
+ 
+       const firebaseConfig = {
          apiKey: "AIzaSyA-H5mHX6UWyzjsJAnNl2rH2SQIzlRUnWk",
          authDomain: "boomboom-9621f.firebaseapp.com",
          projectId: "boomboom-9621f",
@@ -25,40 +19,31 @@ title: Verifying Email...
          messagingSenderId: "396477438586",
          appId: "1:396477438586:web:4d7e266b0d88fedaf839c3"
      };
-
-        firebase.initializeApp(firebaseConfig);
-
-        // Extract the action code from the URL (e.g., ?oobCode=someCode)
-        const urlParams = new URLSearchParams(window.location.search);
-        const actionCode = urlParams.get('oobCode');
-
-        if (!actionCode) {
-            document.getElementById('status').innerText = "Verification code is missing.";
-            return;
-        }
-
-        // Check the action code with Firebase
-        firebase.auth().checkActionCode(actionCode)
-            .then(function(info) {
-                // If the code is valid, apply the action code (verify email)
-                return firebase.auth().applyActionCode(actionCode);
-            })
-            .then(function() {
-                // Successfully verified email
-                document.getElementById('status').innerText = "Email verified successfully!";
-                setTimeout(function() {
-                    window.location.href = '/success.html';  // Redirect to success page
-                }, 2000);
-            })
-            .catch(function(error) {
-                // Handle invalid or expired code
-                document.getElementById('status').innerText = "This verification link is expired or invalid.";
-                setTimeout(function() {
-                    window.location.href = '/failure.html';  // Redirect to failure page
-                }, 2000);
-            });
-    </script>
+ 
+       const app = initializeApp(firebaseConfig);
+       const auth = getAuth(app);
+ 
+       const params = new URLSearchParams(window.location.search);
+       const mode = params.get("mode");
+       const oobCode = params.get("oobCode");
+ 
+       if (mode === "verifyEmail" && oobCode) {
+         applyActionCode(auth, oobCode)
+           .then(() => {
+             window.location.href = "boomboom://verified";
+           })
+           .catch(err => {
+             console.error(err);
+             document.getElementById("message").innerHTML = "<h2>Verification failed</h2><p>" + err.message + "</p>";
+           });
+       } else {
+         document.getElementById("message").innerHTML = "<h2>Invalid link</h2>";
+       }
+     </script>
+   </head>
+   <body>
+  <p>Email Verified.</p>
+  <p>Please return to the app to continue.</p>
 </body>
 </html>
-
 
