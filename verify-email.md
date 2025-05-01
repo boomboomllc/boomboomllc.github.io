@@ -42,7 +42,7 @@ title: Verifying Email...
      </script>
    </head>
    <body>
-  <p>Email Verified.</p>
+  <p>Verifying...</p>
   <p>Please return to the app to continue.</p>
 </body>
 </html>
