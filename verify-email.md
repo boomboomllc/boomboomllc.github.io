@@ -2,6 +2,7 @@
 layout: default
 title: Verifying Email...
 ---
+
 <html>
 <head>
   <title>Verifying Email...</title>
@@ -13,22 +14,29 @@ title: Verifying Email...
       authDomain: "boomboom-9621f.firebaseapp.com"
     };
     firebase.initializeApp(firebaseConfig);
-    
+
     window.onload = async () => {
       const statusMessage = document.getElementById("status-message");
-      statusMessage.innerHTML = "<p>Verifying your email...</p>";
+      // Initial loading state
+      statusMessage.innerHTML = "<p>Loading...</p>";
+      
+      // Force the UI to repaint before continuing with the logic
+      await new Promise(resolve => setTimeout(resolve, 0));
+
       const params = new URLSearchParams(window.location.search);
       const oobCode = params.get("oobCode");
 
-      if (oobCode) {
-        try {
-          await firebase.auth().applyActionCode(oobCode);
-          statusMessage.innerHTML = "<h2>Success</h2><p>Your email has been verified. Please return to the app.</p>";
-        } catch (error) {
-          statusMessage.innerHTML = "<h2>Verification Failed</h2><p>Something went wrong. Please contact support.</p>";
-        }
-      } else {
+      if (!oobCode) {
         statusMessage.innerHTML = "<h2>Invalid Link</h2><p>No verification code found. Please check your email link.</p>";
+        return;
+      }
+
+      try {
+        await firebase.auth().applyActionCode(oobCode);
+        statusMessage.innerHTML = "<h2>Success</h2><p>Your email has been verified. Please return to the app.</p>";
+      } catch (error) {
+        console.error("Verification error:", error); // For debugging
+        statusMessage.innerHTML = "<h2>Error</h2><p>There was an error verifying your email. Please try again or contact support.</p>";
       }
     };
   </script>
@@ -37,6 +45,7 @@ title: Verifying Email...
   <div id="status-message"><p>Loading...</p></div>
 </body>
 </html>
+
 
 
 
