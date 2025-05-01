@@ -2,7 +2,6 @@
 layout: default
 title: Verifying Email...
 ---
-
 <html>
 <head>
   <title>Verifying Email...</title>
@@ -16,27 +15,29 @@ title: Verifying Email...
     firebase.initializeApp(firebaseConfig);
     
     window.onload = async () => {
-      document.body.innerHTML = "<p>Verifying your email...</p>";
+      const statusMessage = document.getElementById("status-message");
+      statusMessage.innerHTML = "<p>Verifying your email...</p>";
       const params = new URLSearchParams(window.location.search);
       const oobCode = params.get("oobCode");
 
       if (oobCode) {
         try {
           await firebase.auth().applyActionCode(oobCode);
-          document.body.innerHTML = "<h2>Success</h2><p>Your email has been verified. Please return to the app.</p>";
+          statusMessage.innerHTML = "<h2>Success</h2><p>Your email has been verified. Please return to the app.</p>";
         } catch (error) {
-          document.body.innerHTML = "<h2>Verification Failed</h2><p>Something went wrong. Please contact support.</p>";
+          statusMessage.innerHTML = "<h2>Verification Failed</h2><p>Something went wrong. Please contact support.</p>";
         }
       } else {
-        document.body.innerHTML = "<h2>Invalid Link</h2><p>No verification code found. Please check your email link.</p>";
+        statusMessage.innerHTML = "<h2>Invalid Link</h2><p>No verification code found. Please check your email link.</p>";
       }
     };
   </script>
 </head>
 <body>
-  <p>Loading...</p>
+  <div id="status-message"><p>Loading...</p></div>
 </body>
 </html>
+
 
 
 
