@@ -20,30 +20,38 @@ title: Verifying Email...
          appId: "1:396477438586:web:4d7e266b0d88fedaf839c3"
      };
  
-       const app = initializeApp(firebaseConfig);
-       const auth = getAuth(app);
- 
-       const params = new URLSearchParams(window.location.search);
-       const mode = params.get("mode");
-       const oobCode = params.get("oobCode");
- 
-       if (mode === "verifyEmail" && oobCode) {
-         applyActionCode(auth, oobCode)
-           .then(() => {
-             window.location.href = "boomboom://verified";
-           })
-           .catch(err => {
-             console.error(err);
-             document.getElementById("message").innerHTML = "<h2>Verification failed</h2><p>" + err.message + "</p>";
-           });
-       } else {
-         document.getElementById("message").innerHTML = "<h2>Invalid link</h2>";
-       }
-     </script>
-   </head>
-   <body>
-  <p>Email Verified.</p>
-  <p>Please return to the app to continue.</p>
+       firebase.initializeApp(firebaseConfig);
+
+        // Get the verification code from the URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const actionCode = urlParams.get('oobCode');
+
+        if (!actionCode) {
+            document.getElementById('status').innerText = "Verification code is missing.";
+            return;
+        }
+
+        // Check the verification code (action code) with Firebase
+        firebase.auth().checkActionCode(actionCode)
+            .then(function(info) {
+                // If the action code is valid, verify the email
+                return firebase.auth().applyActionCode(actionCode);
+            })
+            .then(function() {
+                // Successfully verified the email
+                document.getElementById('status').innerText = "Email verified successfully!";
+                setTimeout(() => {
+                    window.location.href = '/success.html'; // Redirect to success page
+                }, 2000);
+            })
+            .catch(function(error) {
+                // Handle errors (invalid/expired link)
+                document.getElementById('status').innerText = "This verification link has expired or is invalid.";
+                setTimeout(() => {
+                    window.location.href = '/failure.html'; // Redirect to failure page
+                }, 2000);
+            });
+    </script>
 </body>
 </html>
 
