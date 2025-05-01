@@ -3,34 +3,45 @@ layout: default
 title: Verifying Email...
 ---
 
-<html>
-<head>
-  <title>Verifying Email...</title>
-  <script src="https://www.gstatic.com/firebasejs/10.0.0/firebase-app.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/10.0.0/firebase-auth.js"></script>
-  <script>
-    const firebaseConfig = {
-      apiKey: "AIzaSyA-H5mHX6UWyzjsJAnNl2rH2SQIzlRUnWk",
-      authDomain: "boomboom-9621f.firebaseapp.com"
-    };
-    firebase.initializeApp(firebaseConfig);
-    window.onload = async () => {
-      const params = new URLSearchParams(window.location.search);
-      const oobCode = params.get("oobCode");
-     if (oobCode) {
-        try {
-          await firebase.auth().applyActionCode(oobCode);
-          document.body.innerHTML = "<h2>Email verified!</h2><p>You can now return to the app.</p>";
-        } catch (error) {
-          document.body.innerHTML = `<h2>Error</h2><p>${error.message}</p>`;
-        }
-      } else {
-        document.body.innerHTML = "<h2>Invalid verification link.</h2>";
-      }
-    };
-  </script>
-</head>
-<body>
+ <html>
+   <head>
+     <meta charset="UTF-8">
+     <title>Verifying Email...</title>
+     <script type="module">
+       import { initializeApp } from "https://www.gstatic.com/firebasejs/10.10.0/firebase-app.js";
+       import { getAuth, applyActionCode } from "https://www.gstatic.com/firebasejs/10.10.0/firebase-auth.js";
+ 
+       const firebaseConfig = {
+         apiKey: "AIzaSyA-H5mHX6UWyzjsJAnNl2rH2SQIzlRUnWk",
+         authDomain: "boomboom-9621f.firebaseapp.com",
+         projectId: "boomboom-9621f",
+         storageBucket: "boomboom-9621f.appspot.com",
+         messagingSenderId: "396477438586",
+         appId: "1:396477438586:web:4d7e266b0d88fedaf839c3"
+     };
+ 
+       const app = initializeApp(firebaseConfig);
+       const auth = getAuth(app);
+ 
+       const params = new URLSearchParams(window.location.search);
+       const mode = params.get("mode");
+       const oobCode = params.get("oobCode");
+ 
+       if (mode === "verifyEmail" && oobCode) {
+         applyActionCode(auth, oobCode)
+           .then(() => {
+             window.location.href = "boomboom://verified";
+           })
+           .catch(err => {
+             console.error(err);
+             document.getElementById("message").innerHTML = "<h2>Verification failed</h2><p>" + err.message + "</p>";
+           });
+       } else {
+         document.getElementById("message").innerHTML = "<h2>Invalid link</h2>";
+       }
+     </script>
+   </head>
+   <body>
   <p>Email Verified!</p>
   <p>Please return to the app to continue.</p>
 </body>
