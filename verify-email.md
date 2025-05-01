@@ -42,8 +42,8 @@ title: Verifying Email...
      </script>
    </head>
    <body>
-  <p>Email Verified!</p>
-  <p>Please return to the app to continue.</p>
+  <p>Email Verified.</p>
+  <p>Please return to the app to save and continue.</p>
 </body>
 </html>
 
