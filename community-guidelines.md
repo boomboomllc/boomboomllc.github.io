@@ -106,7 +106,7 @@ We want to maintain a safe and respectful environment for all users. Here’s ho
 - Users can report violations using the in-app reporting system; all reports are reviewed promptly.  
 
 
-**Violation Handling** 
+**Violation Handling**<br>
 
 Violations of these guidelines may result in:  
   - Warnings or temporary restrictions.  
