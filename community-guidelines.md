@@ -67,6 +67,7 @@ Your profile and shared media help define your presence on the platform. Follow 
 - **Username Standards**: Your username should not be misleading or impersonate someone else. It must comply with all other guidelines, including those regarding harassment or hate speech.
 - **Link Sharing and Bio Spam**: Do not use your profile or posts for spammy links, unsolicited advertising, or promotions that violate these guidelines.
 
+---
 
 ## 7. Platform Integrity
 
