@@ -107,6 +107,7 @@ We want to maintain a safe and respectful environment for all users. Here’s ho
 
 
 **Violation Handling** 
+
 Violations of these guidelines may result in:  
   - Warnings or temporary restrictions.  
   - Removal of content.  
