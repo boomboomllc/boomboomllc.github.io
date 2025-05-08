@@ -9,7 +9,7 @@ permalink: /privacy-policy/
 
 BoomBoom ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information when using our iOS app.  
 
-*Note on Website Use*
+*Note on Website Use:*<br>
 Our website (boomboom.email) is informational only and does not collect, store, or track any personal data. Our website does not use cookies, analytics trackers, or embedded third-party tools that collect user data. This Privacy Policy primarily applies to our iOS app.
 
 ## 1. Information We Collect  
