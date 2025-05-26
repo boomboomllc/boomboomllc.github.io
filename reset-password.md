@@ -15,9 +15,14 @@ permalink: /reset-password/
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js"></script>
 <script>
   const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com"
-  };
+  apiKey: "AIzaSyA-H5mHX6UWyzjsJAnNl2rH2SQIzlRUnWk",
+  authDomain: "boomboom-9621f.firebaseapp.com",
+  projectId: "boomboom-9621f",
+  storageBucket: "boomboom-9621f.appspot.com",
+  messagingSenderId: "396477438586",
+  appId: "1:396477438586:web:4d7e266b0d88fedaf839c3"
+};
+  
   firebase.initializeApp(firebaseConfig);
 
   const params = new URLSearchParams(window.location.search);
