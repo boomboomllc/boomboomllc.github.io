@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Firebase Action
-permalink: /action/
+permalink: /auth/action/
 ---
 
 <script type="module">
