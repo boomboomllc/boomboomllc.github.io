@@ -1,45 +1,18 @@
 ---
 layout: default
-title: Authenticating..
-permalink: /auth/action/
+title: Firebase Action
+permalink: /action/
 ---
 
-<div id="message">Redirecting...</div>
-
-<script>
+<script type="module">
   const params = new URLSearchParams(window.location.search);
-  const mode = params.get('mode');
-  const oobCode = params.get('oobCode');
+  const mode = params.get("mode");
 
-  const app = initializeApp(firebaseConfig);
-  const auth = getAuth(app);
-
-  const params = new URLSearchParams(window.location.search);
-  const mode = params.get('mode');
-  const oobCode = params.get('oobCode');
-  const continueUrl = params.get('continueUrl');
-  const lang = params.get('lang') || 'en';
-
-  if (!mode || !oobCode) {
-    document.body.innerHTML = '<h2>Invalid action URL.</h2>';
+  if (mode === "verifyEmail") {
+    window.location.href = "/verify-email.html" + window.location.search;
+  } else if (mode === "resetPassword") {
+    window.location.href = "/reset-password.html" + window.location.search;
   } else {
-    switch (mode) {
-      case 'resetPassword':
-        // Redirect to your reset-password page with all parameters
-        window.location.href = `/reset-password/?oobCode=${encodeURIComponent(oobCode)}&mode=${encodeURIComponent(mode)}&continueUrl=${encodeURIComponent(continueUrl || '')}&lang=${encodeURIComponent(lang)}`;
-        break;
-      case 'verifyEmail':
-        // Redirect to your verify-email page with all parameters
-        window.location.href = `/verify-email/?oobCode=${encodeURIComponent(oobCode)}&mode=${encodeURIComponent(mode)}&continueUrl=${encodeURIComponent(continueUrl || '')}&lang=${encodeURIComponent(lang)}`;
-        break;
-      case 'recoverEmail':
-        // Handle recoverEmail mode if needed, else redirect to home
-        window.location.href = '/';
-        break;
-      default:
-        // Unknown mode, redirect home
-        window.location.href = '/';
-        break;
-    }
+    document.body.innerHTML = "<h2>Invalid action</h2>";
   }
 </script>
