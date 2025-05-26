@@ -19,7 +19,7 @@ permalink: /auth/action/
         window.location.href = `/reset-password.html?oobCode=${encodeURIComponent(oobCode)}`;
         break;
       case 'verifyEmail':
-        window.location.href = `/verify-email?oobCode=${encodeURIComponent(oobCode)}`;
+        window.location.href = `/verify-email.html?oobCode=${encodeURIComponent(oobCode)}`;
         break;
       default:
         document.getElementById('message').innerText = 'Unsupported action.';
