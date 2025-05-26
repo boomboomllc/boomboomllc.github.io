@@ -16,10 +16,10 @@ permalink: /auth/action/
   } else {
     switch (mode) {
       case 'resetPassword':
-        window.location.href = `/reset-password.md?oobCode=${encodeURIComponent(oobCode)}`;
+        window.location.href = `/reset-password?oobCode=${encodeURIComponent(oobCode)}`;
         break;
       case 'verifyEmail':
-        window.location.href = `/verify-email.md?oobCode=${encodeURIComponent(oobCode)}`;
+        window.location.href = `/verify-email?oobCode=${encodeURIComponent(oobCode)}`;
         break;
       default:
         document.getElementById('message').innerText = 'Unsupported action.';
