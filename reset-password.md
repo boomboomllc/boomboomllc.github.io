@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reset Password
+permalink: /reset-password/
 ---
 
 <h2>Reset Your BoomBoom Password</h2>
