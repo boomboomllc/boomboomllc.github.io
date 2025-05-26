@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Authenticating..
+permalink: /auth/action/
 ---
 
 <div id="message">Redirecting...</div>
