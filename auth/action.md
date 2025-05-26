@@ -16,7 +16,7 @@ permalink: /auth/action/
   } else {
     switch (mode) {
       case 'resetPassword':
-        window.location.href = `/reset-password?oobCode=${encodeURIComponent(oobCode)}`;
+        window.location.href = `/reset-password.html?oobCode=${encodeURIComponent(oobCode)}`;
         break;
       case 'verifyEmail':
         window.location.href = `/verify-email?oobCode=${encodeURIComponent(oobCode)}`;
